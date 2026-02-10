@@ -1,0 +1,368 @@
+pAdic2Descent := function(E, p, prec)
+Qp := pAdicField(p : Precision := prec); 
+E := WeierstrassModel(E); 
+f<x,y,z> := DefiningPolynomial(E);
+Rp<X> := PolynomialRing(Qp);
+A := - MonomialCoefficient(f,x*z^2); 
+B := - MonomialCoefficient(f,z^3);
+f := X^3 + A*X + B;
+temp := IsIrreducible(f);
+if temp eq false then 
+temp, alpha := HasRoot(f);
+EE := E; 
+a  := 3*alpha; b := 3*alpha^2 + A;
+E := EllipticCurve([0, a,0,b,0]); 
+ad := -2*a; bd := a^2 - 4*b;
+Ed := EllipticCurve([0, ad, 0, bd, 0]);
+Gp, phip := pSelmerGroup(2,Qp);
+g := Inverse(phip);
+generators := [];
+count := 0; 
+tempb := IsSquare(Qp ! b); 
+for elt in Gp do 
+if elt ne Gp ! 0 then 
+delta :=  Rationals() ! g(elt); 
+R<Z> := PolynomialRing(Rationals());
+C1 := HyperellipticCurve(delta^3*Z^4 + (Rationals() ! ad)*delta^2*Z^2+(Rationals() ! bd)*delta); 
+temp, point := IsLocallySolvable(C1,p); 
+if temp and Integers()! point[1] mod 2^(prec) ne 0 then 
+point := LiftPoint(point,prec : Strict := false);
+print(delta); print(phip(Qp ! delta));
+v := point[2]*point[1]; 
+u := (Qp ! delta)*point[1]^2; 
+if Integers() ! v mod 2^45 eq 0 then 
+if count eq 0 then   
+count := count + 1; 
+print([u,v,1]); 
+x1 := 1/4*(u+ad+bd/u);
+y1 := 1/8*(v - bd*v/u^2); 
+R := [x1,y1,1];
+Append(~generators, R);
+Q := BaseChange(E,Qp) ! [x1,y1,1];
+end if; 
+else
+x1 := 1/4*(u+ad+bd/u);
+y1 := 1/8*(v - bd*v/u^2); 
+R := [x1,y1,1];
+print(R);
+Append(~generators, R);
+Q := BaseChange(E,Qp) ! [x1,y1,1];
+end if; 
+end if; 
+end if; 
+end for;  
+
+generatorsdual := []; 
+for elt in Gp do 
+if elt ne Gp ! 0 then 
+delta :=  Rationals() ! g(elt); 
+print(delta); print(phip(Qp ! delta));
+R<Z> := PolynomialRing(Rationals());
+C2 := HyperellipticCurve(delta^3*Z^4 + (Rationals() ! a)*delta^2*Z^2+(Rationals() ! b)*delta); 
+temp, point := IsLocallySolvable(C2,p); 
+if temp and Integers()! point[1] mod 2^(prec) ne 0 then 
+point := LiftPoint(point,prec : Strict := false);
+y2 := point[2]*point[1]; 
+x2 := (Qp ! delta)*point[1]^2; 
+R := [x2,y2,1];
+Append(~generatorsdual, R);
+Q := BaseChange(E,Qp) ! [x2,y2,1];
+end if; 
+end if; 
+end for; 
+
+if tempb eq false then
+Append(~generatorsdual, [Qp ! 0, Qp ! 0]);
+end if; 
+
+end if;
+return E, generators, generatorsdual;
+end function; 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+pAdic2Descent := function(E, p, prec)
+EE := E; 
+Qp := pAdicField(p : Precision := prec);
+Rp<X> := PolynomialRing(Qp);
+if Type(BaseField(E)) eq Type(Rationals()) then 
+//E, psiE := MinimalModel(E);
+//psiE := Inverse(psiE); 
+//g1:= DefiningEquations(psiE)[1]; g2:= DefiningEquations(psiE)[2]; g3:= DefiningEquations(psiE)[3];  
+E := BaseChange(E, Qp); 
+end if; 
+
+ff<u,v,w> := DefiningPolynomial(E); 
+herinnering := MonomialCoefficient(ff,w^3) eq 0; 
+if herinnering and MonomialCoefficient(ff,v*w^2) eq 0 and MonomialCoefficient(ff,u*v*w) eq 0 then 
+alpha := Qp ! 0;
+a := - MonomialCoefficient(ff,u^2*w);
+b := - MonomialCoefficient(ff,u*w^2);
+temp, phiE := IsIsomorphic(E,E);
+h1 := DefiningEquations(phiE)[1]; h2 := DefiningEquations(phiE)[2]; h3 := DefiningEquations(phiE)[3]; 
+ad := -2*a; bd := a^2 - 4*b;
+truthbeta, beta := HasRoot(X^2 + a*X + b);
+truthbetad, betad := HasRoot(X^2 + ad*X + bd); 
+
+else 
+E, phiE := WeierstrassModel(E); 
+phiE := Inverse(phiE); 
+h1 := DefiningEquations(phiE)[1]; h2:= DefiningEquations(phiE)[2]; h3 := DefiningEquations(phiE)[3];  
+f<x,y,z> := DefiningPolynomial(E);
+A := - MonomialCoefficient(f,x*z^2); 
+B := - MonomialCoefficient(f,z^3);
+f := X^3 + A*X + B;
+temp := IsIrreducible(f);
+if temp eq false then 
+temp, alpha := HasRoot(f);
+else 
+//return "gaat niet gebeuren jongen"; 
+end if; 
+a  := 3*alpha; b := 3*alpha^2 + A;
+E := EllipticCurve([0, a,0,b,0]); 
+ad := -2*a; bd := a^2 - 4*b;
+truthbeta, beta := HasRoot(X^2 + a*X + b);
+truthbetad, betad := HasRoot(X^2 + ad*X + bd); 
+Ed := EllipticCurve([0, ad, 0, bd, 0]);
+end if; 
+
+Gp, phip := pSelmerGroup(2,Qp);
+g := Inverse(phip);
+generators := [];
+count := 0; 
+tempb := IsSquare(Qp ! b); 
+tempbd := IsSquare(Qp ! bd); 
+for elt in Gp do 
+if elt ne Gp ! 0 and elt ne phip(bd) then 
+delta :=  Rationals() ! g(elt); 
+R<Z> := PolynomialRing(Rationals());
+C1 := HyperellipticCurve(delta^3*Z^4 + (Rationals() ! ad)*delta^2*Z^2+(Rationals() ! bd)*delta); 
+temp, point := IsLocallySolvable(C1,p); 
+if temp and (AbsolutePrecision(point[1]) lt 50 or AbsolutePrecision(point[2]) lt 50 or AbsolutePrecision(point[3]) lt 50) then 
+point := LiftPoint(point,prec : Strict := false);
+//print(delta); print(phip(Qp ! delta));
+v := point[2]*point[1]; 
+u := (Qp ! delta)*point[1]^2; 
+if truthbetad eq false then 
+x1 := 1/4*(u+ad+bd/u);
+y1 := 1/8*(v - bd*v/u^2); 
+R := [x1,y1,1];
+Append(~generators, <R,phip(u)>);
+//<R,phip(u)>;
+else 
+betad := Roots(X^2 + ad*X + bd)[1][1];
+betadcon := Roots(X^2 + ad*X + bd)[2][1]; 
+if phip(delta) ne phip(betad) and phip(delta) ne phip(betad*bd) and phip(delta) ne phip(betadcon) and phip(delta) ne phip(betadcon*bd) then 
+x1 := 1/4*(u+ad+bd/u);
+y1 := 1/8*(v - bd*v/u^2); 
+R := [x1,y1,1];
+Append(~generators, <R,phip(u)>);
+//<R,phip(u)>;
+end if; 
+end if;
+elif temp and AbsolutePrecision(point[1]) gt 50 and AbsolutePrecision(point[2]) gt 50 and AbsolutePrecision(point[3]) gt 50 then
+v := point[2]*point[1]; 
+u := (Qp ! delta)*point[1]^2; 
+if truthbetad eq false then 
+x1 := 1/4*(u+ad+bd/u);
+y1 := 1/8*(v - bd*v/u^2); 
+R := [x1,y1,1];
+Append(~generators, <R,phip(u)>);
+//<R,phip(u)>;
+else 
+betad := Roots(X^2 + ad*X + bd)[1][1];
+betadcon := Roots(X^2 + ad*X + bd)[2][1]; 
+if phip(delta) ne phip(betad) and phip(delta) ne phip(betad*bd) and phip(delta) ne phip(betadcon) and phip(delta) ne phip(betadcon*bd) then 
+x1 := 1/4*(u+ad+bd/u);
+y1 := 1/8*(v - bd*v/u^2); 
+R := [x1,y1,1];
+Append(~generators, <R,phip(u)>);
+//<R,phip(u)>;
+end if; 
+end if;
+end if; 
+end if; 
+end for; 
+
+generatorsdual := []; 
+for elt in Gp do 
+if elt ne Gp ! 0 and elt ne phip(b) then 
+delta :=  Rationals() ! g(elt); 
+//print(delta); print(phip(Qp ! delta));
+R<Z> := PolynomialRing(Rationals());
+C2 := HyperellipticCurve(delta^3*Z^4 + (Rationals() ! a)*delta^2*Z^2+(Rationals() ! b)*delta); 
+temp, point := IsLocallySolvable(C2,p); 
+if temp and (AbsolutePrecision(point[1]) lt 50 or AbsolutePrecision(point[2]) lt 50 or AbsolutePrecision(point[3]) lt 50) then 
+point := LiftPoint(point,prec : Strict := false);
+y2 := point[2]*point[1]; 
+x2 := (Qp ! delta)*point[1]^2; 
+R := [x2,y2,1];
+if truthbeta eq false then 
+Append(~generatorsdual, <R,phip(x2)>);
+Q := E ! [x2,y2,1];
+R; 
+else
+beta := Roots(X^2 + a*X + b)[1][1];
+betacon := Roots(X^2 + a*X + b)[2][1]; 
+if phip(delta) ne phip(beta) and phip(delta) ne phip(beta*b) and phip(delta) ne phip(betacon) and phip(delta) ne phip(betacon*b) then 
+Append(~generatorsdual, <R,phip(x2)>);
+Q := E ! [x2,y2,1];
+elif phip(delta) eq phip(beta) or phip(delta) eq phip(beta*b) then 
+Append(~generatorsdual, <[beta, 0, 1],phip(beta)>);
+elif phip(delta) eq  phip(betacon) or  phip(delta) eq phip(betacon*b) then 
+Append(~generatorsdual, <[betacon, 0, 1],phip(betacon)>);
+end if; 
+end if;
+elif temp and AbsolutePrecision(point[1]) gt 50 and AbsolutePrecision(point[2]) gt 50 and AbsolutePrecision(point[3]) gt 50 then 
+y2 := point[2]*point[1]; 
+x2 := (Qp ! delta)*point[1]^2; 
+R := [x2,y2,1];
+if truthbeta eq false then 
+Append(~generatorsdual, <R,phip(x2)>);
+Q := E ! [x2,y2,1];
+R; 
+else
+truthbeta, beta := HasRoot(X^2 + a*X + b);
+if phip(delta) ne phip(beta) and phip(delta) ne phip(beta*b) and phip(delta) ne phip(betacon) and phip(delta) ne phip(betacon*b) then 
+Append(~generatorsdual, <R,phip(x2)>);
+Q := E ! [x2,y2,1];
+elif (phip(delta) eq phip(beta) or phip(delta) eq phip(beta*b)) then 
+Append(~generatorsdual, <[beta, 0, 1],phip(beta)>);
+elif phip(delta) eq  phip(betacon) or  phip(delta) eq phip(betacon*b) then 
+Append(~generatorsdual, <[betacon, 0, 1],phip(betacon)>);
+end if; 
+end if;
+end if; 
+end if; 
+end for; 
+
+if truthbetad eq false then
+Append(~generatorsdual, <[Qp ! 0, Qp ! 0,1],phip(b)>);
+else 
+betad := Roots(X^2 + ad*X + bd)[1][1];
+betadcon := Roots(X^2 + ad*X + bd)[2][1]; 
+if IsSquare(betad) eq false and IsSquare(betadcon) eq false then 
+Append(~generatorsdual, <[Qp ! 0, Qp ! 0,1],phip(b)>);
+end if; 
+end if;
+
+gens := generators; gensdual := generatorsdual;
+genstrue := [];
+if #gens ge 2 then 
+for i in [1..#gens] do 
+for j in [i..#gens] do 
+if j gt i then 
+if gens[i][2] + gens[j][2] eq Gp ! 0 or gens[i][2] + gens[j][2] eq phip(bd) or gens[i][2] + gens[j][2] eq phip(betad) or gens[i][2] + gens[j][2] eq phip(betad*bd) or gens[i][2] + gens[j][2] eq phip(betadcon) or gens[i][2] + gens[j][2] eq phip(betadcon*bd) then
+holdd := 1; 
+else
+Append(~genstrue, gens[i]);
+end if; 
+end if; end for; end for; 
+Append(~genstrue, gens[#gens]);  
+elif #gens eq 1 then 
+Append(~genstrue, gens[1]);
+end if; 
+
+genstruedual := []; 
+if #gensdual ge 2 then 
+for i in [1..#gensdual] do 
+if gensdual[i][2] eq Gp ! 0 or gensdual[i][2] eq phip(beta) or gensdual[i][2] eq phip(beta*b) or gensdual[i][2] eq phip(betacon) or gensdual[i][2] eq phip(betacon*b) then 
+Append(~genstruedual, gensdual[i]); 
+else
+for j in [i..#gensdual] do 
+if j gt i then 
+if  gensdual[i][2] + gensdual[j][2] eq Gp ! 0 or gensdual[i][2] + gensdual[j][2] eq phip(b) or gensdual[i][2] + gensdual[j][2] eq phip(beta) or gensdual[i][2] + gensdual[j][2] eq phip(beta*b) or gensdual[i][2] + gensdual[j][2] eq phip(betacon) or gensdual[i][2] + gensdual[j][2] eq phip(betacon*b) then
+holdd := 1; 
+else
+Append(~genstruedual, gensdual[i]);
+end if; 
+end if; end for; end if; end for;
+count := 0; 
+for pts in genstruedual do 
+if gensdual[#gensdual][2] eq pts[2] then 
+count := count + 1; 
+end if; end for; 
+if count eq 0 then 
+Append(~genstruedual, gensdual[#gensdual]); 
+end if; 
+elif #gensdual eq 1 then  
+Append(~genstruedual, gensdual[1]);
+end if;   
+gens := Set(genstrue) join Set(genstruedual); 
+
+genstrue := [];
+for pts in gens do 
+Append(~genstrue, <[Evaluate(h1, [pts[1][1] + alpha, pts[1][2],pts[1][3] ]) ,Evaluate(h2, [pts[1][1] + alpha, pts[1][2],pts[1][3] ]),Evaluate(h3,[pts[1][1] + alpha, pts[1][2],pts[1][3] ])],pts[2]>); 
+end for; 
+
+if p eq 2 and IsSquare(bd) then 
+print("Group has size : ");
+8;
+elif p eq 2 and IsSquare(bd) eq false then 
+print("Group has size : ");
+4; 
+elif p ne 2 and IsSquare(bd) then 
+print("Group has size : ");
+4;
+elif p ne 2 and IsSquare(bd) eq false then 
+print("Group has size : ");
+2; 
+end if; 
+print("with generators:");
+return genstrue;
+end function; 
+
+
+
+
+
+
+
+
+
+
+
+
+
