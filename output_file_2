@@ -4667,3 +4667,4121 @@ Polynomial([RationalField() |])])
     <3, \[ 1, 1 ]>,
     <5, \[ 1, 1, 1 ]>
 ]
+"N = "
+102
+"_________________________________________________________________________________"
+HyperellipticCurve([Polynomial([RationalField() | -544, 0, 577, 0, -153]), 
+Polynomial([RationalField() |])])
+"N = "
+102
+"_________________________________________________________________________________"
+HyperellipticCurve([Polynomial([RationalField() | 27744, 0, 577, 0, 3]), 
+Polynomial([RationalField() |])])
+[ PowerSequence(IntegerRing()) |
+    \[ -272, 61, 22, 159460 ],
+    \[ 272, 61, 22, 159460 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <11, \[ -1, 1 ]>,
+    <2, \[ 1, 1, 1 ]>,
+    <5, \[ 1, 1 ]>,
+    <17, \[ 1, 1, 1, 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -5, 1, 91, 22 ],
+    \[ 5, 1, 91, 22 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ -1, -1, -1 ]>,
+    <13, \[ 1, -1 ]>,
+    <7, \[ -1, 1, 1 ]>
+]
+"_________________________________________________________________________________"
+HyperellipticCurve([Polynomial([RationalField() | -27744, 0, 577, 0, -3]), 
+Polynomial([RationalField() |])])
+[ PowerSequence(IntegerRing()) |
+    \[ -952, 97, 190, 68 ],
+    \[ 952, 97, 190, 68 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, 1, 1 ]>,
+    <5, \[ -1, 1 ]>,
+    <17, \[ 1, 1, 1, 1 ]>,
+    <19, \[ 1, -1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -638, 65, -107, 38 ],
+    \[ 638, 65, -107, 38 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, 1, 1 ]>,
+    <5, \[ 1, 1 ]>,
+    <107, \[ 1, -1 ]>,
+    <0, \[ -1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -255, 26, 129, 17 ],
+    \[ 255, 26, 129, 17 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <3, \[ 1, 1 ]>,
+    <17, \[ 1, 1, 1, 1 ]>,
+    <43, \[ 1, -1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -206, 21, 141, 10 ],
+    \[ 206, 21, 141, 10 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, 1, 1 ]>,
+    <3, \[ -1, -1 ]>,
+    <47, \[ -1, 1, -1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -110, 7, -131, 1118 ],
+    \[ 110, 7, -131, 1118 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, 1, 1 ]>,
+    <131, \[ 1, -1 ]>,
+    <0, \[ -1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -108, 11, -69, 4 ],
+    \[ 108, 11, -69, 4 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <11, \[ 1, 1 ]>,
+    <23, \[ 1, -1, -1 ]>,
+    <2, \[ 1, 1, 1 ]>,
+    <3, \[ 1, 1 ]>,
+    <0, \[ -1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -68, 7, -5, 68 ],
+    \[ 68, 7, -5, 68 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, 1, 1 ]>,
+    <5, \[ -1, 1 ]>,
+    <17, \[ 1, 1, 1, 1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -68, 13, -29, 3740 ],
+    \[ 68, 13, -29, 3740 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, 1, 1 ]>,
+    <17, \[ 1, 1, 1, 1 ]>,
+    <29, \[ -1, 1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -59, 6, -39, 5 ],
+    \[ 59, 6, -39, 5 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <13, \[ -1, 1 ]>,
+    <3, \[ -1, -1 ]>,
+    <0, \[ -1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -49, 5, 22, 1 ],
+    \[ 49, 5, 22, 1 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <11, \[ 1, -1 ]>,
+    <2, \[ -1, -1, -1 ]>,
+    <5, \[ 1, 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -17, 2, -95, 17 ],
+    \[ 17, 2, -95, 17 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <5, \[ -1, 1 ]>,
+    <17, \[ 1, 1, 1, 1 ]>,
+    <19, \[ 1, -1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -17, 3, -138, 85 ],
+    \[ 17, 3, -138, 85 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <23, \[ -1, 1, 1 ]>,
+    <2, \[ -1, -1, -1 ]>,
+    <3, \[ -1, -1 ]>,
+    <5, \[ 1, 1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -11, 1, -74, 5 ],
+    \[ 11, 1, -74, 5 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ -1, -1, -1 ]>,
+    <37, \[ -1, 1 ]>,
+    <0, \[ -1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -10, 1, -11, 2 ],
+    \[ 10, 1, -11, 2 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <11, \[ 1, -1 ]>,
+    <2, \[ 1, 1, 1 ]>,
+    <0, \[ -1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -8, 1, -194, 4 ],
+    \[ 8, 1, -194, 4 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, 1, 1 ]>,
+    <97, \[ -1, 1, 1 ]>,
+    <0, \[ 1 ]>
+]
+"_________________________________________________________________________________"
+HyperellipticCurve([Polynomial([RationalField() | -544, 0, 577, 0, -153]), 
+Polynomial([RationalField() |])])
+[ PowerSequence(IntegerRing()) |
+    \[ -866, 631, 53, 1710 ],
+    \[ 866, 631, 53, 1710 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, 1, 1 ]>,
+    <3, \[ 1, 1 ]>,
+    <631, \[ 1, 1, 1 ]>,
+    <5, \[ 1, 1 ]>,
+    <19, \[ 1, 1 ]>,
+    <53, \[ -1, 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -712, 519, -94, 516 ],
+    \[ -536, 807, -94, 1200156 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, 1, 1 ]>,
+    <3, \[ 1, 1 ]>,
+    <47, \[ 1, -1, 1 ]>,
+    <269, \[ -1, -1 ]>,
+    <173, \[ -1, -1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -712, 519, -94, 516 ],
+    \[ -443, 251, -94, 98814 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ -1, 1, 1 ]>,
+    <3, \[ 1, -1 ]>,
+    <47, \[ -1, -1, 1 ]>,
+    <173, \[ -1, -1 ]>,
+    <251, \[ -1, -1 ]>,
+    <0, \[ -1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -712, 519, -94, 516 ],
+    \[ -152, 111, -94, 156 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, 1, 1 ]>,
+    <3, \[ 1, 1 ]>,
+    <47, \[ 1, -1, 1 ]>,
+    <37, \[ -1, -1 ]>,
+    <173, \[ -1, -1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -712, 519, -94, 516 ],
+    \[ -145, 113, -94, 3894 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ -1, 1, 1 ]>,
+    <3, \[ 1, -1 ]>,
+    <47, \[ 1, -1, 1 ]>,
+    <113, \[ -1, -1, -1 ]>,
+    <59, \[ 1, 1 ]>,
+    <173, \[ -1, -1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -712, 519, -94, 516 ],
+    \[ -123, 89, -94, 244 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, -1, -1 ]>,
+    <3, \[ 1, -1 ]>,
+    <47, \[ -1, -1, 1 ]>,
+    <61, \[ 1, 1 ]>,
+    <173, \[ -1, -1 ]>,
+    <0, \[ -1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -712, 519, -94, 516 ],
+    \[ -19, 13, -94, 54 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ -1, 1, 1 ]>,
+    <3, \[ 1, -1 ]>,
+    <47, \[ 1, -1, -1 ]>,
+    <173, \[ -1, -1 ]>,
+    <0, \[ -1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -712, 519, -94, 516 ],
+    \[ -15, 11, -94, 4 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, -1, -1 ]>,
+    <3, \[ 1, -1 ]>,
+    <47, \[ 1, 1, 1 ]>,
+    <173, \[ -1, -1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -712, 519, -94, 516 ],
+    \[ -8, 3, -94, 60 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, 1, 1 ]>,
+    <3, \[ 1, 1 ]>,
+    <47, \[ 1, 1, -1 ]>,
+    <173, \[ -1, -1 ]>,
+    <0, \[ -1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -712, 519, -94, 516 ],
+    \[ 8, 3, -94, 60 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, 1, 1 ]>,
+    <3, \[ 1, 1 ]>,
+    <47, \[ -1, -1, 1 ]>,
+    <173, \[ -1, -1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -712, 519, -94, 516 ],
+    \[ 15, 11, -94, 4 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, -1, -1 ]>,
+    <3, \[ 1, -1 ]>,
+    <47, \[ 1, -1, 1 ]>,
+    <173, \[ -1, -1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -712, 519, -94, 516 ],
+    \[ 19, 13, -94, 54 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ -1, 1, 1 ]>,
+    <3, \[ 1, -1 ]>,
+    <47, \[ -1, 1, 1 ]>,
+    <173, \[ -1, -1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -712, 519, -94, 516 ],
+    \[ 123, 89, -94, 244 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, -1, -1 ]>,
+    <3, \[ 1, -1 ]>,
+    <47, \[ 1, -1, -1 ]>,
+    <61, \[ 1, 1 ]>,
+    <173, \[ -1, -1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -712, 519, -94, 516 ],
+    \[ 145, 113, -94, 3894 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ -1, 1, 1 ]>,
+    <3, \[ 1, -1 ]>,
+    <47, \[ 1, 1, 1 ]>,
+    <113, \[ -1, -1, -1 ]>,
+    <59, \[ 1, 1 ]>,
+    <173, \[ -1, -1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -712, 519, -94, 516 ],
+    \[ 152, 111, -94, 156 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, 1, 1 ]>,
+    <3, \[ 1, 1 ]>,
+    <47, \[ 1, 1, 1 ]>,
+    <37, \[ -1, -1 ]>,
+    <173, \[ -1, -1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -712, 519, -94, 516 ],
+    \[ 443, 251, -94, 98814 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ -1, 1, 1 ]>,
+    <3, \[ 1, -1 ]>,
+    <47, \[ 1, 1, -1 ]>,
+    <173, \[ -1, -1 ]>,
+    <251, \[ -1, -1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -712, 519, -94, 516 ],
+    \[ 536, 807, -94, 1200156 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, 1, 1 ]>,
+    <3, \[ 1, 1 ]>,
+    <47, \[ 1, 1, 1 ]>,
+    <269, \[ -1, -1 ]>,
+    <173, \[ -1, -1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -712, 519, -94, 516 ],
+    \[ 712, 519, -94, 516 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, 1, 1 ]>,
+    <3, \[ 1, 1 ]>,
+    <47, \[ 1, -1, 1 ]>,
+    <173, \[ 1, 1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -536, 807, -94, 1200156 ],
+    \[ -443, 251, -94, 98814 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ -1, 1, 1 ]>,
+    <3, \[ 1, -1 ]>,
+    <47, \[ -1, 1, 1 ]>,
+    <269, \[ -1, -1 ]>,
+    <251, \[ -1, -1 ]>,
+    <0, \[ -1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -536, 807, -94, 1200156 ],
+    \[ -152, 111, -94, 156 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, 1, 1 ]>,
+    <3, \[ 1, 1 ]>,
+    <47, \[ 1, 1, 1 ]>,
+    <37, \[ -1, -1 ]>,
+    <269, \[ -1, -1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -536, 807, -94, 1200156 ],
+    \[ -145, 113, -94, 3894 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ -1, 1, 1 ]>,
+    <3, \[ 1, -1 ]>,
+    <47, \[ 1, 1, 1 ]>,
+    <113, \[ -1, -1, -1 ]>,
+    <59, \[ 1, 1 ]>,
+    <269, \[ -1, -1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -536, 807, -94, 1200156 ],
+    \[ -123, 89, -94, 244 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, -1, -1 ]>,
+    <3, \[ 1, -1 ]>,
+    <47, \[ -1, -1, 1 ]>,
+    <269, \[ -1, -1 ]>,
+    <61, \[ 1, 1 ]>,
+    <0, \[ -1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -536, 807, -94, 1200156 ],
+    \[ -19, 13, -94, 54 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ -1, 1, 1 ]>,
+    <3, \[ 1, -1 ]>,
+    <47, \[ 1, -1, -1 ]>,
+    <269, \[ -1, -1 ]>,
+    <0, \[ -1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -536, 807, -94, 1200156 ],
+    \[ -15, 11, -94, 4 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, -1, -1 ]>,
+    <3, \[ 1, -1 ]>,
+    <47, \[ 1, -1, 1 ]>,
+    <269, \[ -1, -1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -536, 807, -94, 1200156 ],
+    \[ -8, 3, -94, 60 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, 1, 1 ]>,
+    <3, \[ 1, 1 ]>,
+    <47, \[ 1, 1, -1 ]>,
+    <269, \[ -1, -1 ]>,
+    <0, \[ -1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -536, 807, -94, 1200156 ],
+    \[ 8, 3, -94, 60 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, 1, 1 ]>,
+    <3, \[ 1, 1 ]>,
+    <47, \[ -1, -1, 1 ]>,
+    <269, \[ -1, -1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -536, 807, -94, 1200156 ],
+    \[ 15, 11, -94, 4 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, -1, -1 ]>,
+    <3, \[ 1, -1 ]>,
+    <47, \[ 1, 1, 1 ]>,
+    <269, \[ -1, -1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -536, 807, -94, 1200156 ],
+    \[ 19, 13, -94, 54 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ -1, 1, 1 ]>,
+    <3, \[ 1, -1 ]>,
+    <47, \[ -1, -1, 1 ]>,
+    <269, \[ -1, -1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -536, 807, -94, 1200156 ],
+    \[ 123, 89, -94, 244 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, -1, -1 ]>,
+    <3, \[ 1, -1 ]>,
+    <47, \[ 1, -1, -1 ]>,
+    <269, \[ -1, -1 ]>,
+    <61, \[ 1, 1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -536, 807, -94, 1200156 ],
+    \[ 145, 113, -94, 3894 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ -1, 1, 1 ]>,
+    <3, \[ 1, -1 ]>,
+    <47, \[ 1, -1, 1 ]>,
+    <113, \[ -1, -1, -1 ]>,
+    <59, \[ 1, 1 ]>,
+    <269, \[ -1, -1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -536, 807, -94, 1200156 ],
+    \[ 152, 111, -94, 156 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, 1, 1 ]>,
+    <3, \[ 1, 1 ]>,
+    <47, \[ 1, -1, 1 ]>,
+    <37, \[ -1, -1 ]>,
+    <269, \[ -1, -1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -536, 807, -94, 1200156 ],
+    \[ 443, 251, -94, 98814 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ -1, 1, 1 ]>,
+    <3, \[ 1, -1 ]>,
+    <47, \[ 1, 1, -1 ]>,
+    <269, \[ -1, -1 ]>,
+    <251, \[ -1, -1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -536, 807, -94, 1200156 ],
+    \[ 536, 807, -94, 1200156 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, 1, 1 ]>,
+    <3, \[ 1, 1 ]>,
+    <47, \[ 1, -1, 1 ]>,
+    <269, \[ 1, 1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -536, 807, -94, 1200156 ],
+    \[ 712, 519, -94, 516 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, 1, 1 ]>,
+    <3, \[ 1, 1 ]>,
+    <47, \[ 1, 1, 1 ]>,
+    <269, \[ -1, -1 ]>,
+    <173, \[ -1, -1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -491, 353, -19, 17316 ],
+    \[ -2, 1, -19, 6 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ -1, -1, -1 ]>,
+    <13, \[ 1, 1 ]>,
+    <3, \[ 1, 1 ]>,
+    <37, \[ 1, 1 ]>,
+    <19, \[ 1, -1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -491, 353, -19, 17316 ],
+    \[ 2, 1, -19, 6 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ -1, -1, -1 ]>,
+    <13, \[ 1, 1 ]>,
+    <3, \[ 1, 1 ]>,
+    <37, \[ 1, 1 ]>,
+    <19, \[ 1, 1 ]>,
+    <0, \[ -1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -491, 353, -19, 17316 ],
+    \[ 491, 353, -19, 17316 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, 1, 1 ]>,
+    <13, \[ 1, 1 ]>,
+    <3, \[ 1, 1 ]>,
+    <37, \[ 1, 1 ]>,
+    <19, \[ 1, -1 ]>,
+    <0, \[ -1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -443, 251, -94, 98814 ],
+    \[ -152, 111, -94, 156 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ -1, 1, 1 ]>,
+    <3, \[ 1, -1 ]>,
+    <47, \[ -1, -1, 1 ]>,
+    <37, \[ -1, -1 ]>,
+    <251, \[ -1, -1 ]>,
+    <0, \[ -1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -443, 251, -94, 98814 ],
+    \[ -145, 113, -94, 3894 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, 1, 1 ]>,
+    <113, \[ -1, -1, -1 ]>,
+    <47, \[ -1, -1, 1 ]>,
+    <3, \[ 1, 1 ]>,
+    <59, \[ 1, 1 ]>,
+    <251, \[ -1, -1 ]>,
+    <0, \[ -1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -443, 251, -94, 98814 ],
+    \[ -123, 89, -94, 244 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ -1, -1, -1 ]>,
+    <3, \[ 1, 1 ]>,
+    <47, \[ 1, 1, 1 ]>,
+    <61, \[ 1, 1 ]>,
+    <251, \[ -1, -1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -443, 251, -94, 98814 ],
+    \[ -19, 13, -94, 54 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, 1, 1 ]>,
+    <3, \[ 1, 1 ]>,
+    <47, \[ -1, 1, -1 ]>,
+    <251, \[ -1, -1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -443, 251, -94, 98814 ],
+    \[ -15, 11, -94, 4 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ -1, -1, -1 ]>,
+    <3, \[ 1, 1 ]>,
+    <47, \[ -1, -1, 1 ]>,
+    <251, \[ -1, -1 ]>,
+    <0, \[ -1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -443, 251, -94, 98814 ],
+    \[ -8, 3, -94, 60 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ -1, 1, 1 ]>,
+    <3, \[ 1, -1 ]>,
+    <47, \[ 1, -1, -1 ]>,
+    <251, \[ -1, -1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -443, 251, -94, 98814 ],
+    \[ 8, 3, -94, 60 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ -1, 1, 1 ]>,
+    <3, \[ 1, -1 ]>,
+    <47, \[ 1, 1, 1 ]>,
+    <251, \[ -1, -1 ]>,
+    <0, \[ -1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -443, 251, -94, 98814 ],
+    \[ 15, 11, -94, 4 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ -1, -1, -1 ]>,
+    <3, \[ 1, 1 ]>,
+    <47, \[ -1, 1, 1 ]>,
+    <251, \[ -1, -1 ]>,
+    <0, \[ -1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -443, 251, -94, 98814 ],
+    \[ 19, 13, -94, 54 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, 1, 1 ]>,
+    <3, \[ 1, 1 ]>,
+    <47, \[ 1, 1, 1 ]>,
+    <251, \[ -1, -1 ]>,
+    <0, \[ -1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -443, 251, -94, 98814 ],
+    \[ 123, 89, -94, 244 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ -1, -1, -1 ]>,
+    <3, \[ 1, 1 ]>,
+    <47, \[ 1, -1, -1 ]>,
+    <61, \[ 1, 1 ]>,
+    <251, \[ -1, -1 ]>,
+    <0, \[ -1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -443, 251, -94, 98814 ],
+    \[ 145, 113, -94, 3894 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, 1, 1 ]>,
+    <113, \[ -1, -1, -1 ]>,
+    <47, \[ -1, -1, 1 ]>,
+    <3, \[ 1, 1 ]>,
+    <59, \[ 1, 1 ]>,
+    <251, \[ -1, -1 ]>,
+    <0, \[ -1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -443, 251, -94, 98814 ],
+    \[ 152, 111, -94, 156 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ -1, 1, 1 ]>,
+    <3, \[ 1, -1 ]>,
+    <47, \[ -1, -1, 1 ]>,
+    <37, \[ -1, -1 ]>,
+    <251, \[ -1, -1 ]>,
+    <0, \[ -1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -443, 251, -94, 98814 ],
+    \[ 443, 251, -94, 98814 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, 1, 1 ]>,
+    <3, \[ 1, 1 ]>,
+    <47, \[ -1, 1, -1 ]>,
+    <251, \[ 1, 1 ]>,
+    <0, \[ -1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -443, 251, -94, 98814 ],
+    \[ 536, 807, -94, 1200156 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ -1, 1, 1 ]>,
+    <3, \[ 1, -1 ]>,
+    <47, \[ -1, -1, 1 ]>,
+    <269, \[ -1, -1 ]>,
+    <251, \[ -1, -1 ]>,
+    <0, \[ -1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -443, 251, -94, 98814 ],
+    \[ 712, 519, -94, 516 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ -1, 1, 1 ]>,
+    <3, \[ 1, -1 ]>,
+    <47, \[ -1, -1, 1 ]>,
+    <173, \[ -1, -1 ]>,
+    <251, \[ -1, -1 ]>,
+    <0, \[ -1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -339, 247, 179, 148 ],
+    \[ 339, 247, 179, 148 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ -1, -1, -1 ]>,
+    <179, \[ 1, -1 ]>,
+    <37, \[ 1, 1 ]>,
+    <19, \[ 1, 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -257, 187, 34, 60 ],
+    \[ -136, 99, 34, 60 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, -1, -1 ]>,
+    <17, \[ 1, -1, 1, -1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -257, 187, 34, 60 ],
+    \[ 136, 99, 34, 60 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, -1, -1 ]>,
+    <17, \[ -1, -1, 1, 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -257, 187, 34, 60 ],
+    \[ 257, 187, 34, 60 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, 1, 1 ]>,
+    <17, \[ 1, 1, 1, 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -152, 111, -94, 156 ],
+    \[ -145, 113, -94, 3894 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ -1, 1, 1 ]>,
+    <3, \[ 1, -1 ]>,
+    <37, \[ -1, -1 ]>,
+    <59, \[ 1, 1 ]>,
+    <113, \[ -1, -1, -1 ]>,
+    <47, \[ 1, 1, 1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -152, 111, -94, 156 ],
+    \[ -123, 89, -94, 244 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, -1, -1 ]>,
+    <3, \[ 1, -1 ]>,
+    <47, \[ -1, -1, 1 ]>,
+    <37, \[ -1, -1 ]>,
+    <61, \[ 1, 1 ]>,
+    <0, \[ -1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -152, 111, -94, 156 ],
+    \[ -19, 13, -94, 54 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ -1, 1, 1 ]>,
+    <3, \[ 1, -1 ]>,
+    <47, \[ -1, 1, -1 ]>,
+    <37, \[ -1, -1 ]>,
+    <0, \[ -1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -152, 111, -94, 156 ],
+    \[ -15, 11, -94, 4 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, -1, -1 ]>,
+    <3, \[ 1, -1 ]>,
+    <47, \[ 1, -1, 1 ]>,
+    <37, \[ -1, -1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -152, 111, -94, 156 ],
+    \[ -8, 3, -94, 60 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, 1, 1 ]>,
+    <3, \[ 1, 1 ]>,
+    <47, \[ 1, -1, -1 ]>,
+    <37, \[ -1, -1 ]>,
+    <0, \[ -1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -152, 111, -94, 156 ],
+    \[ 8, 3, -94, 60 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, 1, 1 ]>,
+    <3, \[ 1, 1 ]>,
+    <47, \[ -1, 1, 1 ]>,
+    <37, \[ -1, -1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -152, 111, -94, 156 ],
+    \[ 15, 11, -94, 4 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, -1, -1 ]>,
+    <3, \[ 1, -1 ]>,
+    <47, \[ 1, 1, 1 ]>,
+    <37, \[ -1, -1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -152, 111, -94, 156 ],
+    \[ 19, 13, -94, 54 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ -1, 1, 1 ]>,
+    <3, \[ 1, -1 ]>,
+    <47, \[ -1, 1, 1 ]>,
+    <37, \[ -1, -1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -152, 111, -94, 156 ],
+    \[ 123, 89, -94, 244 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, -1, -1 ]>,
+    <3, \[ 1, -1 ]>,
+    <47, \[ 1, 1, -1 ]>,
+    <37, \[ -1, -1 ]>,
+    <61, \[ 1, 1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -152, 111, -94, 156 ],
+    \[ 145, 113, -94, 3894 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ -1, 1, 1 ]>,
+    <3, \[ 1, -1 ]>,
+    <37, \[ -1, -1 ]>,
+    <59, \[ 1, 1 ]>,
+    <113, \[ -1, -1, -1 ]>,
+    <47, \[ 1, -1, 1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -152, 111, -94, 156 ],
+    \[ 152, 111, -94, 156 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, 1, 1 ]>,
+    <3, \[ 1, 1 ]>,
+    <47, \[ 1, -1, 1 ]>,
+    <37, \[ 1, 1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -152, 111, -94, 156 ],
+    \[ 443, 251, -94, 98814 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ -1, 1, 1 ]>,
+    <3, \[ 1, -1 ]>,
+    <47, \[ 1, -1, -1 ]>,
+    <37, \[ -1, -1 ]>,
+    <251, \[ -1, -1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -152, 111, -94, 156 ],
+    \[ 536, 807, -94, 1200156 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, 1, 1 ]>,
+    <3, \[ 1, 1 ]>,
+    <47, \[ -1, 1, 1 ]>,
+    <37, \[ -1, -1 ]>,
+    <269, \[ -1, -1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -152, 111, -94, 156 ],
+    \[ 712, 519, -94, 516 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, 1, 1 ]>,
+    <3, \[ 1, 1 ]>,
+    <47, \[ 1, 1, 1 ]>,
+    <37, \[ -1, -1 ]>,
+    <173, \[ -1, -1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -145, 113, -94, 3894 ],
+    \[ -123, 89, -94, 244 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ -1, -1, -1 ]>,
+    <113, \[ -1, -1, -1 ]>,
+    <47, \[ -1, -1, 1 ]>,
+    <3, \[ 1, 1 ]>,
+    <59, \[ 1, 1 ]>,
+    <61, \[ 1, 1 ]>,
+    <0, \[ -1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -145, 113, -94, 3894 ],
+    \[ -19, 13, -94, 54 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, 1, 1 ]>,
+    <113, \[ -1, -1, -1 ]>,
+    <47, \[ 1, -1, -1 ]>,
+    <3, \[ 1, 1 ]>,
+    <59, \[ 1, 1 ]>,
+    <0, \[ -1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -145, 113, -94, 3894 ],
+    \[ -15, 11, -94, 4 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ -1, -1, -1 ]>,
+    <113, \[ -1, -1, -1 ]>,
+    <47, \[ 1, -1, 1 ]>,
+    <3, \[ 1, 1 ]>,
+    <59, \[ 1, 1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -145, 113, -94, 3894 ],
+    \[ -8, 3, -94, 60 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ -1, 1, 1 ]>,
+    <113, \[ -1, -1, -1 ]>,
+    <47, \[ 1, -1, -1 ]>,
+    <3, \[ 1, -1 ]>,
+    <59, \[ 1, 1 ]>,
+    <0, \[ -1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -145, 113, -94, 3894 ],
+    \[ 8, 3, -94, 60 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ -1, 1, 1 ]>,
+    <113, \[ -1, -1, -1 ]>,
+    <47, \[ -1, 1, 1 ]>,
+    <3, \[ 1, -1 ]>,
+    <59, \[ 1, 1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -145, 113, -94, 3894 ],
+    \[ 15, 11, -94, 4 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ -1, -1, -1 ]>,
+    <113, \[ -1, -1, -1 ]>,
+    <47, \[ 1, 1, 1 ]>,
+    <3, \[ 1, 1 ]>,
+    <59, \[ 1, 1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -145, 113, -94, 3894 ],
+    \[ 19, 13, -94, 54 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, 1, 1 ]>,
+    <113, \[ -1, -1, -1 ]>,
+    <47, \[ -1, 1, 1 ]>,
+    <3, \[ 1, 1 ]>,
+    <59, \[ 1, 1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -145, 113, -94, 3894 ],
+    \[ 123, 89, -94, 244 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ -1, -1, -1 ]>,
+    <113, \[ -1, -1, -1 ]>,
+    <47, \[ 1, 1, -1 ]>,
+    <3, \[ 1, 1 ]>,
+    <59, \[ 1, 1 ]>,
+    <61, \[ 1, 1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -145, 113, -94, 3894 ],
+    \[ 145, 113, -94, 3894 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, 1, 1 ]>,
+    <113, \[ 1, 1, 1 ]>,
+    <47, \[ 1, -1, 1 ]>,
+    <3, \[ 1, 1 ]>,
+    <59, \[ 1, 1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -145, 113, -94, 3894 ],
+    \[ 152, 111, -94, 156 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ -1, 1, 1 ]>,
+    <3, \[ 1, -1 ]>,
+    <37, \[ -1, -1 ]>,
+    <59, \[ 1, 1 ]>,
+    <113, \[ -1, -1, -1 ]>,
+    <47, \[ 1, -1, 1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -145, 113, -94, 3894 ],
+    \[ 443, 251, -94, 98814 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, 1, 1 ]>,
+    <113, \[ -1, -1, -1 ]>,
+    <47, \[ 1, -1, -1 ]>,
+    <3, \[ 1, 1 ]>,
+    <59, \[ 1, 1 ]>,
+    <251, \[ -1, -1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -145, 113, -94, 3894 ],
+    \[ 536, 807, -94, 1200156 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ -1, 1, 1 ]>,
+    <113, \[ -1, -1, -1 ]>,
+    <47, \[ 1, -1, 1 ]>,
+    <3, \[ 1, -1 ]>,
+    <59, \[ 1, 1 ]>,
+    <269, \[ -1, -1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -145, 113, -94, 3894 ],
+    \[ 712, 519, -94, 516 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ -1, 1, 1 ]>,
+    <113, \[ -1, -1, -1 ]>,
+    <47, \[ 1, 1, 1 ]>,
+    <3, \[ 1, -1 ]>,
+    <59, \[ 1, 1 ]>,
+    <173, \[ -1, -1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -139, 101, -118, 90 ],
+    \[ 139, 101, -118, 90 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, 1, 1 ]>,
+    <3, \[ 1, 1 ]>,
+    <59, \[ 1, -1 ]>,
+    <5, \[ 1, 1 ]>,
+    <0, \[ -1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -136, 99, 34, 60 ],
+    \[ 136, 99, 34, 60 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, 1, 1 ]>,
+    <17, \[ 1, 1, 1, 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -136, 99, 34, 60 ],
+    \[ 257, 187, 34, 60 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, -1, -1 ]>,
+    <17, \[ -1, 1, 1, -1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -123, 89, -94, 244 ],
+    \[ -19, 13, -94, 54 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ -1, -1, -1 ]>,
+    <47, \[ -1, 1, -1 ]>,
+    <3, \[ 1, 1 ]>,
+    <61, \[ 1, 1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -123, 89, -94, 244 ],
+    \[ -15, 11, -94, 4 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, 1, 1 ]>,
+    <47, \[ -1, -1, 1 ]>,
+    <61, \[ 1, 1 ]>,
+    <0, \[ -1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -123, 89, -94, 244 ],
+    \[ -8, 3, -94, 60 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, -1, -1 ]>,
+    <3, \[ 1, -1 ]>,
+    <47, \[ -1, 1, -1 ]>,
+    <61, \[ 1, 1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -123, 89, -94, 244 ],
+    \[ 8, 3, -94, 60 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, -1, -1 ]>,
+    <3, \[ 1, -1 ]>,
+    <47, \[ 1, 1, 1 ]>,
+    <61, \[ 1, 1 ]>,
+    <0, \[ -1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -123, 89, -94, 244 ],
+    \[ 15, 11, -94, 4 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, 1, 1 ]>,
+    <47, \[ -1, 1, 1 ]>,
+    <61, \[ 1, 1 ]>,
+    <0, \[ -1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -123, 89, -94, 244 ],
+    \[ 19, 13, -94, 54 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ -1, -1, -1 ]>,
+    <47, \[ 1, 1, 1 ]>,
+    <3, \[ 1, 1 ]>,
+    <61, \[ 1, 1 ]>,
+    <0, \[ -1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -123, 89, -94, 244 ],
+    \[ 123, 89, -94, 244 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, 1, 1 ]>,
+    <47, \[ -1, 1, -1 ]>,
+    <61, \[ 1, 1 ]>,
+    <0, \[ -1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -123, 89, -94, 244 ],
+    \[ 145, 113, -94, 3894 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ -1, -1, -1 ]>,
+    <113, \[ -1, -1, -1 ]>,
+    <3, \[ 1, 1 ]>,
+    <47, \[ -1, -1, 1 ]>,
+    <59, \[ 1, 1 ]>,
+    <61, \[ 1, 1 ]>,
+    <0, \[ -1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -123, 89, -94, 244 ],
+    \[ 152, 111, -94, 156 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, -1, -1 ]>,
+    <3, \[ 1, -1 ]>,
+    <47, \[ -1, 1, 1 ]>,
+    <37, \[ -1, -1 ]>,
+    <61, \[ 1, 1 ]>,
+    <0, \[ -1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -123, 89, -94, 244 ],
+    \[ 443, 251, -94, 98814 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ -1, -1, -1 ]>,
+    <47, \[ -1, 1, -1 ]>,
+    <3, \[ 1, 1 ]>,
+    <61, \[ 1, 1 ]>,
+    <251, \[ -1, -1 ]>,
+    <0, \[ -1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -123, 89, -94, 244 ],
+    \[ 536, 807, -94, 1200156 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, -1, -1 ]>,
+    <3, \[ 1, -1 ]>,
+    <47, \[ -1, -1, 1 ]>,
+    <269, \[ -1, -1 ]>,
+    <61, \[ 1, 1 ]>,
+    <0, \[ -1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -123, 89, -94, 244 ],
+    \[ 712, 519, -94, 516 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, -1, -1 ]>,
+    <3, \[ 1, -1 ]>,
+    <47, \[ -1, -1, 1 ]>,
+    <61, \[ 1, 1 ]>,
+    <173, \[ -1, -1 ]>,
+    <0, \[ -1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -114, 83, 149, 22 ],
+    \[ 114, 83, 149, 22 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <11, \[ 1, 1 ]>,
+    <2, \[ 1, 1, 1 ]>,
+    <83, \[ 1, 1 ]>,
+    <149, \[ -1, 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -103, 83, -110, 2808 ],
+    \[ -37, 27, -110, 6 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <11, \[ -1, 1 ]>,
+    <2, \[ -1, -1, -1 ]>,
+    <13, \[ 1, 1 ]>,
+    <5, \[ 1, 1 ]>,
+    <83, \[ -1, -1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -103, 83, -110, 2808 ],
+    \[ -1, 59, -110, 7740 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <11, \[ -1, 1 ]>,
+    <2, \[ 1, 1, 1 ]>,
+    <13, \[ 1, 1 ]>,
+    <59, \[ -1, -1 ]>,
+    <5, \[ -1, 1 ]>,
+    <83, \[ -1, -1 ]>,
+    <43, \[ 1, 1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -103, 83, -110, 2808 ],
+    \[ 1, 59, -110, 7740 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <11, \[ 1, 1 ]>,
+    <2, \[ 1, 1, 1 ]>,
+    <13, \[ 1, 1 ]>,
+    <59, \[ -1, -1 ]>,
+    <5, \[ 1, 1 ]>,
+    <83, \[ -1, -1 ]>,
+    <43, \[ 1, 1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -103, 83, -110, 2808 ],
+    \[ 37, 27, -110, 6 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <11, \[ 1, 1 ]>,
+    <2, \[ -1, -1, -1 ]>,
+    <13, \[ 1, 1 ]>,
+    <5, \[ -1, 1 ]>,
+    <83, \[ -1, -1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -103, 83, -110, 2808 ],
+    \[ 103, 83, -110, 2808 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <11, \[ -1, 1 ]>,
+    <2, \[ 1, 1, 1 ]>,
+    <13, \[ 1, 1 ]>,
+    <5, \[ -1, 1 ]>,
+    <83, \[ 1, 1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -68, 63, -17, 8580 ],
+    \[ 68, 63, -17, 8580 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, 1, 1 ]>,
+    <5, \[ 1, 1 ]>,
+    <17, \[ 1, 1, 1, 1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -67, 47, -178, 300 ],
+    \[ -48, 35, -178, 4 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <89, \[ 1, 1, 1 ]>,
+    <2, \[ 1, -1, 1 ]>,
+    <47, \[ -1, -1, -1 ]>,
+    <3, \[ 1, 1 ]>,
+    <5, \[ -1, -1 ]>,
+    <0, \[ -1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -67, 47, -178, 300 ],
+    \[ -31, 21, -178, 120 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <89, \[ 1, 1, -1 ]>,
+    <2, \[ -1, -1, -1 ]>,
+    <47, \[ -1, -1, -1 ]>,
+    <3, \[ 1, -1 ]>,
+    <5, \[ 1, 1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -67, 47, -178, 300 ],
+    \[ -16, 15, -178, 156 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <89, \[ 1, 1, -1 ]>,
+    <2, \[ 1, -1, 1 ]>,
+    <47, \[ -1, -1, -1 ]>,
+    <3, \[ 1, -1 ]>,
+    <5, \[ -1, -1 ]>,
+    <0, \[ -1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -67, 47, -178, 300 ],
+    \[ 16, 15, -178, 156 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <89, \[ -1, 1, -1 ]>,
+    <2, \[ 1, -1, 1 ]>,
+    <47, \[ -1, -1, -1 ]>,
+    <3, \[ 1, -1 ]>,
+    <5, \[ -1, -1 ]>,
+    <0, \[ -1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -67, 47, -178, 300 ],
+    \[ 31, 21, -178, 120 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <89, \[ 1, 1, -1 ]>,
+    <2, \[ 1, 1, 1 ]>,
+    <47, \[ -1, -1, -1 ]>,
+    <3, \[ 1, -1 ]>,
+    <5, \[ 1, 1 ]>,
+    <0, \[ -1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -67, 47, -178, 300 ],
+    \[ 48, 35, -178, 4 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <89, \[ -1, 1, 1 ]>,
+    <2, \[ 1, -1, 1 ]>,
+    <47, \[ -1, -1, -1 ]>,
+    <3, \[ 1, 1 ]>,
+    <5, \[ -1, -1 ]>,
+    <0, \[ -1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -67, 47, -178, 300 ],
+    \[ 67, 47, -178, 300 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <89, \[ -1, 1, 1 ]>,
+    <2, \[ -1, -1, -1 ]>,
+    <47, \[ 1, 1, 1 ]>,
+    <3, \[ 1, 1 ]>,
+    <5, \[ 1, 1 ]>,
+    <0, \[ -1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -59, 43, 26, 6 ],
+    \[ 59, 43, 26, 6 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, 1, 1 ]>,
+    <13, \[ 1, -1 ]>,
+    <3, \[ 1, 1 ]>,
+    <43, \[ 1, 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -55, 73, -174, 6586 ],
+    \[ 55, 73, -174, 6586 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, 1, 1 ]>,
+    <3, \[ 1, 1 ]>,
+    <73, \[ 1, 1, 1 ]>,
+    <29, \[ -1, 1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -48, 35, -178, 4 ],
+    \[ -31, 21, -178, 120 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <89, \[ 1, 1, -1 ]>,
+    <2, \[ -1, 1, -1 ]>,
+    <3, \[ 1, -1 ]>,
+    <5, \[ -1, -1 ]>,
+    <0, \[ -1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -48, 35, -178, 4 ],
+    \[ -16, 15, -178, 156 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <89, \[ -1, 1, -1 ]>,
+    <2, \[ 1, 1, 1 ]>,
+    <3, \[ 1, -1 ]>,
+    <5, \[ 1, 1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -48, 35, -178, 4 ],
+    \[ 16, 15, -178, 156 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <89, \[ -1, 1, -1 ]>,
+    <2, \[ 1, 1, 1 ]>,
+    <3, \[ 1, -1 ]>,
+    <5, \[ 1, 1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -48, 35, -178, 4 ],
+    \[ 31, 21, -178, 120 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <89, \[ -1, 1, -1 ]>,
+    <2, \[ 1, -1, 1 ]>,
+    <3, \[ 1, -1 ]>,
+    <5, \[ -1, -1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -48, 35, -178, 4 ],
+    \[ 48, 35, -178, 4 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <89, \[ 1, -1, 1 ]>,
+    <2, \[ 1, 1, 1 ]>,
+    <5, \[ 1, 1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -48, 35, -178, 4 ],
+    \[ 67, 47, -178, 300 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <89, \[ 1, -1, 1 ]>,
+    <2, \[ -1, 1, -1 ]>,
+    <47, \[ -1, -1, -1 ]>,
+    <3, \[ 1, 1 ]>,
+    <5, \[ -1, -1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -37, 27, -110, 6 ],
+    \[ -1, 59, -110, 7740 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <11, \[ 1, 1 ]>,
+    <2, \[ -1, -1, -1 ]>,
+    <59, \[ -1, -1 ]>,
+    <5, \[ -1, 1 ]>,
+    <43, \[ 1, 1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -37, 27, -110, 6 ],
+    \[ 1, 59, -110, 7740 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <11, \[ -1, 1 ]>,
+    <2, \[ -1, -1, -1 ]>,
+    <59, \[ -1, -1 ]>,
+    <5, \[ 1, 1 ]>,
+    <43, \[ 1, 1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -37, 27, -110, 6 ],
+    \[ 37, 27, -110, 6 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <11, \[ -1, 1 ]>,
+    <2, \[ 1, 1, 1 ]>,
+    <5, \[ -1, 1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -37, 27, -110, 6 ],
+    \[ 103, 83, -110, 2808 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <11, \[ 1, 1 ]>,
+    <2, \[ -1, -1, -1 ]>,
+    <13, \[ 1, 1 ]>,
+    <5, \[ -1, 1 ]>,
+    <83, \[ -1, -1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -31, 21, -178, 120 ],
+    \[ -16, 15, -178, 156 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <89, \[ -1, 1, 1 ]>,
+    <2, \[ -1, 1, -1 ]>,
+    <3, \[ 1, 1 ]>,
+    <5, \[ -1, -1 ]>,
+    <0, \[ -1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -31, 21, -178, 120 ],
+    \[ 16, 15, -178, 156 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <89, \[ 1, 1, 1 ]>,
+    <2, \[ -1, 1, -1 ]>,
+    <3, \[ 1, 1 ]>,
+    <5, \[ -1, -1 ]>,
+    <0, \[ -1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -31, 21, -178, 120 ],
+    \[ 31, 21, -178, 120 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <89, \[ -1, 1, 1 ]>,
+    <2, \[ -1, -1, -1 ]>,
+    <3, \[ 1, 1 ]>,
+    <5, \[ 1, 1 ]>,
+    <0, \[ -1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -31, 21, -178, 120 ],
+    \[ 48, 35, -178, 4 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <89, \[ -1, 1, -1 ]>,
+    <2, \[ -1, 1, -1 ]>,
+    <3, \[ 1, -1 ]>,
+    <5, \[ -1, -1 ]>,
+    <0, \[ -1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -31, 21, -178, 120 ],
+    \[ 67, 47, -178, 300 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <89, \[ 1, 1, -1 ]>,
+    <2, \[ 1, 1, 1 ]>,
+    <3, \[ 1, -1 ]>,
+    <47, \[ -1, -1, -1 ]>,
+    <5, \[ 1, 1 ]>,
+    <0, \[ -1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -27, 19, -106, 58 ],
+    \[ 27, 19, -106, 58 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ -1, -1, -1 ]>,
+    <29, \[ 1, 1 ]>,
+    <19, \[ 1, 1 ]>,
+    <53, \[ -1, 1 ]>,
+    <0, \[ -1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -19, 13, -94, 54 ],
+    \[ -15, 11, -94, 4 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ -1, -1, -1 ]>,
+    <3, \[ 1, 1 ]>,
+    <47, \[ 1, 1, -1 ]>,
+    <0, \[ -1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -19, 13, -94, 54 ],
+    \[ -8, 3, -94, 60 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ -1, 1, 1 ]>,
+    <3, \[ 1, -1 ]>,
+    <47, \[ 1, 1, 1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -19, 13, -94, 54 ],
+    \[ 8, 3, -94, 60 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ -1, 1, 1 ]>,
+    <3, \[ 1, -1 ]>,
+    <47, \[ 1, -1, -1 ]>,
+    <0, \[ -1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -19, 13, -94, 54 ],
+    \[ 15, 11, -94, 4 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ -1, -1, -1 ]>,
+    <3, \[ 1, 1 ]>,
+    <47, \[ 1, -1, -1 ]>,
+    <0, \[ -1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -19, 13, -94, 54 ],
+    \[ 19, 13, -94, 54 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, 1, 1 ]>,
+    <3, \[ 1, 1 ]>,
+    <47, \[ -1, 1, -1 ]>,
+    <0, \[ -1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -19, 13, -94, 54 ],
+    \[ 123, 89, -94, 244 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ -1, -1, -1 ]>,
+    <3, \[ 1, 1 ]>,
+    <47, \[ 1, 1, 1 ]>,
+    <61, \[ 1, 1 ]>,
+    <0, \[ -1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -19, 13, -94, 54 ],
+    \[ 145, 113, -94, 3894 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, 1, 1 ]>,
+    <113, \[ -1, -1, -1 ]>,
+    <47, \[ 1, 1, -1 ]>,
+    <3, \[ 1, 1 ]>,
+    <59, \[ 1, 1 ]>,
+    <0, \[ -1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -19, 13, -94, 54 ],
+    \[ 152, 111, -94, 156 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ -1, 1, 1 ]>,
+    <3, \[ 1, -1 ]>,
+    <47, \[ 1, -1, -1 ]>,
+    <37, \[ -1, -1 ]>,
+    <0, \[ -1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -19, 13, -94, 54 ],
+    \[ 443, 251, -94, 98814 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, 1, 1 ]>,
+    <3, \[ 1, 1 ]>,
+    <47, \[ 1, 1, 1 ]>,
+    <251, \[ -1, -1 ]>,
+    <0, \[ -1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -19, 13, -94, 54 ],
+    \[ 536, 807, -94, 1200156 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ -1, 1, 1 ]>,
+    <3, \[ 1, -1 ]>,
+    <47, \[ 1, 1, -1 ]>,
+    <269, \[ -1, -1 ]>,
+    <0, \[ -1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -19, 13, -94, 54 ],
+    \[ 712, 519, -94, 516 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ -1, 1, 1 ]>,
+    <3, \[ 1, -1 ]>,
+    <47, \[ 1, 1, -1 ]>,
+    <173, \[ -1, -1 ]>,
+    <0, \[ -1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -18, 13, -43, 10 ],
+    \[ 18, 13, -43, 10 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, 1, 1 ]>,
+    <5, \[ 1, 1 ]>,
+    <43, \[ 1, -1 ]>,
+    <0, \[ -1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -16, 15, -178, 156 ],
+    \[ 16, 15, -178, 156 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <89, \[ -1, 1, 1 ]>,
+    <2, \[ 1, 1, 1 ]>,
+    <3, \[ 1, 1 ]>,
+    <5, \[ 1, 1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -16, 15, -178, 156 ],
+    \[ 31, 21, -178, 120 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <89, \[ 1, 1, 1 ]>,
+    <2, \[ 1, -1, 1 ]>,
+    <3, \[ 1, 1 ]>,
+    <5, \[ -1, -1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -16, 15, -178, 156 ],
+    \[ 48, 35, -178, 4 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <89, \[ 1, 1, -1 ]>,
+    <2, \[ 1, 1, 1 ]>,
+    <3, \[ 1, -1 ]>,
+    <5, \[ 1, 1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -16, 15, -178, 156 ],
+    \[ 67, 47, -178, 300 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <89, \[ 1, -1, -1 ]>,
+    <2, \[ -1, 1, -1 ]>,
+    <3, \[ 1, -1 ]>,
+    <47, \[ -1, -1, -1 ]>,
+    <5, \[ -1, -1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -15, 11, -94, 4 ],
+    \[ -8, 3, -94, 60 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, -1, -1 ]>,
+    <3, \[ 1, -1 ]>,
+    <47, \[ -1, 1, -1 ]>,
+    <0, \[ -1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -15, 11, -94, 4 ],
+    \[ 8, 3, -94, 60 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, -1, -1 ]>,
+    <3, \[ 1, -1 ]>,
+    <47, \[ -1, 1, 1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -15, 11, -94, 4 ],
+    \[ 15, 11, -94, 4 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, 1, 1 ]>,
+    <47, \[ 1, -1, 1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -15, 11, -94, 4 ],
+    \[ 19, 13, -94, 54 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ -1, -1, -1 ]>,
+    <47, \[ -1, -1, 1 ]>,
+    <3, \[ 1, 1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -15, 11, -94, 4 ],
+    \[ 123, 89, -94, 244 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, 1, 1 ]>,
+    <47, \[ 1, -1, -1 ]>,
+    <61, \[ 1, 1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -15, 11, -94, 4 ],
+    \[ 145, 113, -94, 3894 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ -1, -1, -1 ]>,
+    <113, \[ -1, -1, -1 ]>,
+    <3, \[ 1, 1 ]>,
+    <47, \[ 1, 1, 1 ]>,
+    <59, \[ 1, 1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -15, 11, -94, 4 ],
+    \[ 152, 111, -94, 156 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, -1, -1 ]>,
+    <3, \[ 1, -1 ]>,
+    <47, \[ 1, 1, 1 ]>,
+    <37, \[ -1, -1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -15, 11, -94, 4 ],
+    \[ 443, 251, -94, 98814 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ -1, -1, -1 ]>,
+    <47, \[ 1, 1, -1 ]>,
+    <3, \[ 1, 1 ]>,
+    <251, \[ -1, -1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -15, 11, -94, 4 ],
+    \[ 536, 807, -94, 1200156 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, -1, -1 ]>,
+    <3, \[ 1, -1 ]>,
+    <47, \[ 1, 1, 1 ]>,
+    <269, \[ -1, -1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -15, 11, -94, 4 ],
+    \[ 712, 519, -94, 516 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, -1, -1 ]>,
+    <3, \[ 1, -1 ]>,
+    <47, \[ 1, -1, 1 ]>,
+    <173, \[ -1, -1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -11, 1, -67, 180 ],
+    \[ 11, 1, -67, 180 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <67, \[ 1, -1 ]>,
+    <2, \[ 1, 1, 1 ]>,
+    <3, \[ 1, 1 ]>,
+    <5, \[ 1, 1 ]>,
+    <0, \[ -1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -11, 8, -1, 3 ],
+    \[ -4, 3, -1, 12 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ -1, -1, 1 ]>,
+    <3, \[ 1, -1 ]>,
+    <0, \[ -1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -11, 8, -1, 3 ],
+    \[ -3, 1, -1, 88 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <11, \[ 1, 1 ]>,
+    <2, \[ 1, 1, 1 ]>,
+    <3, \[ 1, 1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -11, 8, -1, 3 ],
+    \[ 3, 1, -1, 88 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <11, \[ 1, 1 ]>,
+    <2, \[ -1, -1, -1 ]>,
+    <3, \[ 1, 1 ]>,
+    <0, \[ -1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -11, 8, -1, 3 ],
+    \[ 4, 3, -1, 12 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ -1, -1, 1 ]>,
+    <3, \[ 1, -1 ]>,
+    <0, \[ -1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -11, 8, -1, 3 ],
+    \[ 11, 8, -1, 3 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ -1, -1, -1 ]>,
+    <3, \[ 1, 1 ]>,
+    <0, \[ -1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -8, 3, -94, 60 ],
+    \[ 8, 3, -94, 60 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, 1, 1 ]>,
+    <3, \[ 1, 1 ]>,
+    <47, \[ -1, 1, -1 ]>,
+    <0, \[ -1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -8, 3, -94, 60 ],
+    \[ 15, 11, -94, 4 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, -1, -1 ]>,
+    <3, \[ 1, -1 ]>,
+    <47, \[ -1, 1, -1 ]>,
+    <0, \[ -1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -8, 3, -94, 60 ],
+    \[ 19, 13, -94, 54 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ -1, 1, 1 ]>,
+    <3, \[ 1, -1 ]>,
+    <47, \[ -1, 1, -1 ]>,
+    <0, \[ -1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -8, 3, -94, 60 ],
+    \[ 123, 89, -94, 244 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, -1, -1 ]>,
+    <3, \[ 1, -1 ]>,
+    <47, \[ 1, 1, 1 ]>,
+    <61, \[ 1, 1 ]>,
+    <0, \[ -1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -8, 3, -94, 60 ],
+    \[ 145, 113, -94, 3894 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ -1, 1, 1 ]>,
+    <3, \[ 1, -1 ]>,
+    <47, \[ 1, 1, -1 ]>,
+    <113, \[ -1, -1, -1 ]>,
+    <59, \[ 1, 1 ]>,
+    <0, \[ -1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -8, 3, -94, 60 ],
+    \[ 152, 111, -94, 156 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, 1, 1 ]>,
+    <3, \[ 1, 1 ]>,
+    <47, \[ 1, 1, -1 ]>,
+    <37, \[ -1, -1 ]>,
+    <0, \[ -1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -8, 3, -94, 60 ],
+    \[ 443, 251, -94, 98814 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ -1, 1, 1 ]>,
+    <3, \[ 1, -1 ]>,
+    <47, \[ 1, 1, 1 ]>,
+    <251, \[ -1, -1 ]>,
+    <0, \[ -1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -8, 3, -94, 60 ],
+    \[ 536, 807, -94, 1200156 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, 1, 1 ]>,
+    <3, \[ 1, 1 ]>,
+    <47, \[ 1, -1, -1 ]>,
+    <269, \[ -1, -1 ]>,
+    <0, \[ -1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -8, 3, -94, 60 ],
+    \[ 712, 519, -94, 516 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, 1, 1 ]>,
+    <3, \[ 1, 1 ]>,
+    <47, \[ 1, 1, -1 ]>,
+    <173, \[ -1, -1 ]>,
+    <0, \[ -1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -7, 5, -33, 4 ],
+    \[ 7, 5, -33, 4 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <11, \[ -1, 1 ]>,
+    <2, \[ -1, -1, -1 ]>,
+    <3, \[ 1, 1 ]>,
+    <5, \[ 1, 1 ]>,
+    <0, \[ -1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -4, 3, -1, 12 ],
+    \[ -3, 1, -1, 88 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <11, \[ 1, 1 ]>,
+    <2, \[ -1, -1, 1 ]>,
+    <3, \[ 1, -1 ]>,
+    <0, \[ -1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -4, 3, -1, 12 ],
+    \[ 3, 1, -1, 88 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <11, \[ 1, 1 ]>,
+    <2, \[ 1, 1, -1 ]>,
+    <3, \[ 1, -1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -4, 3, -1, 12 ],
+    \[ 4, 3, -1, 12 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, 1, 1 ]>,
+    <3, \[ 1, 1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -4, 3, -1, 12 ],
+    \[ 11, 8, -1, 3 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, 1, -1 ]>,
+    <3, \[ 1, -1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -3, 1, -1, 88 ],
+    \[ 3, 1, -1, 88 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <11, \[ 1, 1 ]>,
+    <2, \[ -1, -1, -1 ]>,
+    <0, \[ -1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -3, 1, -1, 88 ],
+    \[ 4, 3, -1, 12 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <11, \[ 1, 1 ]>,
+    <2, \[ -1, -1, 1 ]>,
+    <3, \[ 1, -1 ]>,
+    <0, \[ -1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -3, 1, -1, 88 ],
+    \[ 11, 8, -1, 3 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <11, \[ 1, 1 ]>,
+    <2, \[ -1, -1, -1 ]>,
+    <3, \[ 1, 1 ]>,
+    <0, \[ -1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -3, 2, -13, 5 ],
+    \[ 3, 2, -13, 5 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ -1, -1, -1 ]>,
+    <13, \[ 1, -1 ]>,
+    <5, \[ 1, 1 ]>,
+    <0, \[ -1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -2, 1, -19, 6 ],
+    \[ 2, 1, -19, 6 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, 1, 1 ]>,
+    <3, \[ 1, 1 ]>,
+    <19, \[ 1, -1 ]>,
+    <0, \[ -1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -2, 1, -19, 6 ],
+    \[ 491, 353, -19, 17316 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ -1, -1, -1 ]>,
+    <13, \[ 1, 1 ]>,
+    <3, \[ 1, 1 ]>,
+    <37, \[ 1, 1 ]>,
+    <19, \[ 1, 1 ]>,
+    <0, \[ -1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -1, 1, -30, 2 ],
+    \[ 1, 1, -30, 2 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, 1, 1 ]>,
+    <3, \[ 1, 1 ]>,
+    <5, \[ -1, 1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -1, 59, -110, 7740 ],
+    \[ 1, 59, -110, 7740 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <11, \[ -1, 1 ]>,
+    <2, \[ 1, 1, 1 ]>,
+    <59, \[ 1, 1 ]>,
+    <5, \[ -1, 1 ]>,
+    <43, \[ 1, 1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -1, 59, -110, 7740 ],
+    \[ 37, 27, -110, 6 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <11, \[ -1, 1 ]>,
+    <2, \[ -1, -1, -1 ]>,
+    <59, \[ -1, -1 ]>,
+    <5, \[ 1, 1 ]>,
+    <43, \[ 1, 1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -1, 59, -110, 7740 ],
+    \[ 103, 83, -110, 2808 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <11, \[ 1, 1 ]>,
+    <2, \[ 1, 1, 1 ]>,
+    <13, \[ 1, 1 ]>,
+    <59, \[ -1, -1 ]>,
+    <5, \[ 1, 1 ]>,
+    <83, \[ -1, -1 ]>,
+    <43, \[ 1, 1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ 1, 59, -110, 7740 ],
+    \[ 37, 27, -110, 6 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <11, \[ 1, 1 ]>,
+    <2, \[ -1, -1, -1 ]>,
+    <59, \[ -1, -1 ]>,
+    <5, \[ -1, 1 ]>,
+    <43, \[ 1, 1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ 1, 59, -110, 7740 ],
+    \[ 103, 83, -110, 2808 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <11, \[ -1, 1 ]>,
+    <2, \[ 1, 1, 1 ]>,
+    <13, \[ 1, 1 ]>,
+    <59, \[ -1, -1 ]>,
+    <5, \[ -1, 1 ]>,
+    <83, \[ -1, -1 ]>,
+    <43, \[ 1, 1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ 2, 1, -19, 6 ],
+    \[ 491, 353, -19, 17316 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ -1, -1, -1 ]>,
+    <13, \[ 1, 1 ]>,
+    <3, \[ 1, 1 ]>,
+    <37, \[ 1, 1 ]>,
+    <19, \[ 1, -1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ 3, 1, -1, 88 ],
+    \[ 4, 3, -1, 12 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <11, \[ 1, 1 ]>,
+    <2, \[ 1, 1, -1 ]>,
+    <3, \[ 1, -1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ 3, 1, -1, 88 ],
+    \[ 11, 8, -1, 3 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <11, \[ 1, 1 ]>,
+    <2, \[ 1, 1, 1 ]>,
+    <3, \[ 1, 1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ 4, 3, -1, 12 ],
+    \[ 11, 8, -1, 3 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, 1, -1 ]>,
+    <3, \[ 1, -1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ 8, 3, -94, 60 ],
+    \[ 15, 11, -94, 4 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, -1, -1 ]>,
+    <3, \[ 1, -1 ]>,
+    <47, \[ -1, -1, 1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ 8, 3, -94, 60 ],
+    \[ 19, 13, -94, 54 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ -1, 1, 1 ]>,
+    <3, \[ 1, -1 ]>,
+    <47, \[ 1, 1, 1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ 8, 3, -94, 60 ],
+    \[ 123, 89, -94, 244 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, -1, -1 ]>,
+    <3, \[ 1, -1 ]>,
+    <47, \[ -1, 1, -1 ]>,
+    <61, \[ 1, 1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ 8, 3, -94, 60 ],
+    \[ 145, 113, -94, 3894 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ -1, 1, 1 ]>,
+    <3, \[ 1, -1 ]>,
+    <47, \[ -1, -1, 1 ]>,
+    <113, \[ -1, -1, -1 ]>,
+    <59, \[ 1, 1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ 8, 3, -94, 60 ],
+    \[ 152, 111, -94, 156 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, 1, 1 ]>,
+    <3, \[ 1, 1 ]>,
+    <47, \[ -1, 1, 1 ]>,
+    <37, \[ -1, -1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ 8, 3, -94, 60 ],
+    \[ 443, 251, -94, 98814 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ -1, 1, 1 ]>,
+    <3, \[ 1, -1 ]>,
+    <47, \[ 1, -1, -1 ]>,
+    <251, \[ -1, -1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ 8, 3, -94, 60 ],
+    \[ 536, 807, -94, 1200156 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, 1, 1 ]>,
+    <3, \[ 1, 1 ]>,
+    <47, \[ 1, -1, 1 ]>,
+    <269, \[ -1, -1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ 8, 3, -94, 60 ],
+    \[ 712, 519, -94, 516 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, 1, 1 ]>,
+    <3, \[ 1, 1 ]>,
+    <47, \[ -1, 1, 1 ]>,
+    <173, \[ -1, -1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ 15, 11, -94, 4 ],
+    \[ 19, 13, -94, 54 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ -1, -1, -1 ]>,
+    <47, \[ -1, -1, 1 ]>,
+    <3, \[ 1, 1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ 15, 11, -94, 4 ],
+    \[ 123, 89, -94, 244 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, 1, 1 ]>,
+    <47, \[ -1, 1, -1 ]>,
+    <61, \[ 1, 1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ 15, 11, -94, 4 ],
+    \[ 145, 113, -94, 3894 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ -1, -1, -1 ]>,
+    <113, \[ -1, -1, -1 ]>,
+    <3, \[ 1, 1 ]>,
+    <47, \[ 1, -1, 1 ]>,
+    <59, \[ 1, 1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ 15, 11, -94, 4 ],
+    \[ 152, 111, -94, 156 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, -1, -1 ]>,
+    <3, \[ 1, -1 ]>,
+    <47, \[ -1, 1, 1 ]>,
+    <37, \[ -1, -1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ 15, 11, -94, 4 ],
+    \[ 443, 251, -94, 98814 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ -1, -1, -1 ]>,
+    <47, \[ 1, 1, -1 ]>,
+    <3, \[ 1, 1 ]>,
+    <251, \[ -1, -1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ 15, 11, -94, 4 ],
+    \[ 536, 807, -94, 1200156 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, -1, -1 ]>,
+    <3, \[ 1, -1 ]>,
+    <47, \[ 1, -1, 1 ]>,
+    <269, \[ -1, -1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ 15, 11, -94, 4 ],
+    \[ 712, 519, -94, 516 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, -1, -1 ]>,
+    <3, \[ 1, -1 ]>,
+    <47, \[ 1, 1, 1 ]>,
+    <173, \[ -1, -1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ 16, 15, -178, 156 ],
+    \[ 31, 21, -178, 120 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <89, \[ 1, -1, 1 ]>,
+    <2, \[ 1, -1, 1 ]>,
+    <3, \[ 1, 1 ]>,
+    <5, \[ -1, -1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ 16, 15, -178, 156 ],
+    \[ 48, 35, -178, 4 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <89, \[ 1, 1, -1 ]>,
+    <2, \[ 1, 1, 1 ]>,
+    <3, \[ 1, -1 ]>,
+    <5, \[ 1, 1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ 16, 15, -178, 156 ],
+    \[ 67, 47, -178, 300 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <89, \[ 1, 1, -1 ]>,
+    <2, \[ -1, 1, -1 ]>,
+    <3, \[ 1, -1 ]>,
+    <47, \[ -1, -1, -1 ]>,
+    <5, \[ -1, -1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ 19, 13, -94, 54 ],
+    \[ 123, 89, -94, 244 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ -1, -1, -1 ]>,
+    <3, \[ 1, 1 ]>,
+    <47, \[ -1, 1, -1 ]>,
+    <61, \[ 1, 1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ 19, 13, -94, 54 ],
+    \[ 145, 113, -94, 3894 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, 1, 1 ]>,
+    <113, \[ -1, -1, -1 ]>,
+    <47, \[ -1, 1, 1 ]>,
+    <3, \[ 1, 1 ]>,
+    <59, \[ 1, 1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ 19, 13, -94, 54 ],
+    \[ 152, 111, -94, 156 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ -1, 1, 1 ]>,
+    <3, \[ 1, -1 ]>,
+    <47, \[ -1, -1, 1 ]>,
+    <37, \[ -1, -1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ 19, 13, -94, 54 ],
+    \[ 443, 251, -94, 98814 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, 1, 1 ]>,
+    <3, \[ 1, 1 ]>,
+    <47, \[ -1, 1, -1 ]>,
+    <251, \[ -1, -1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ 19, 13, -94, 54 ],
+    \[ 536, 807, -94, 1200156 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ -1, 1, 1 ]>,
+    <3, \[ 1, -1 ]>,
+    <47, \[ -1, -1, 1 ]>,
+    <269, \[ -1, -1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ 19, 13, -94, 54 ],
+    \[ 712, 519, -94, 516 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ -1, 1, 1 ]>,
+    <3, \[ 1, -1 ]>,
+    <47, \[ -1, 1, 1 ]>,
+    <173, \[ -1, -1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ 31, 21, -178, 120 ],
+    \[ 48, 35, -178, 4 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <89, \[ 1, 1, -1 ]>,
+    <2, \[ 1, -1, 1 ]>,
+    <3, \[ 1, -1 ]>,
+    <5, \[ -1, -1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ 31, 21, -178, 120 ],
+    \[ 67, 47, -178, 300 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <89, \[ 1, 1, -1 ]>,
+    <2, \[ -1, -1, -1 ]>,
+    <3, \[ 1, -1 ]>,
+    <47, \[ -1, -1, -1 ]>,
+    <5, \[ 1, 1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ 37, 27, -110, 6 ],
+    \[ 103, 83, -110, 2808 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <11, \[ -1, 1 ]>,
+    <2, \[ -1, -1, -1 ]>,
+    <13, \[ 1, 1 ]>,
+    <5, \[ 1, 1 ]>,
+    <83, \[ -1, -1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ 48, 35, -178, 4 ],
+    \[ 67, 47, -178, 300 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <89, \[ 1, 1, 1 ]>,
+    <2, \[ -1, 1, -1 ]>,
+    <47, \[ -1, -1, -1 ]>,
+    <3, \[ 1, 1 ]>,
+    <5, \[ -1, -1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ 123, 89, -94, 244 ],
+    \[ 145, 113, -94, 3894 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ -1, -1, -1 ]>,
+    <113, \[ -1, -1, -1 ]>,
+    <3, \[ 1, 1 ]>,
+    <47, \[ 1, -1, -1 ]>,
+    <59, \[ 1, 1 ]>,
+    <61, \[ 1, 1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ 123, 89, -94, 244 ],
+    \[ 152, 111, -94, 156 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, -1, -1 ]>,
+    <3, \[ 1, -1 ]>,
+    <47, \[ 1, -1, -1 ]>,
+    <37, \[ -1, -1 ]>,
+    <61, \[ 1, 1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ 123, 89, -94, 244 ],
+    \[ 443, 251, -94, 98814 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ -1, -1, -1 ]>,
+    <47, \[ 1, 1, 1 ]>,
+    <3, \[ 1, 1 ]>,
+    <61, \[ 1, 1 ]>,
+    <251, \[ -1, -1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ 123, 89, -94, 244 ],
+    \[ 536, 807, -94, 1200156 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, -1, -1 ]>,
+    <3, \[ 1, -1 ]>,
+    <47, \[ 1, 1, -1 ]>,
+    <269, \[ -1, -1 ]>,
+    <61, \[ 1, 1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ 123, 89, -94, 244 ],
+    \[ 712, 519, -94, 516 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, -1, -1 ]>,
+    <3, \[ 1, -1 ]>,
+    <47, \[ -1, 1, -1 ]>,
+    <61, \[ 1, 1 ]>,
+    <173, \[ -1, -1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ 136, 99, 34, 60 ],
+    \[ 257, 187, 34, 60 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, -1, -1 ]>,
+    <17, \[ 1, -1, 1, -1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ 145, 113, -94, 3894 ],
+    \[ 152, 111, -94, 156 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ -1, 1, 1 ]>,
+    <3, \[ 1, -1 ]>,
+    <37, \[ -1, -1 ]>,
+    <59, \[ 1, 1 ]>,
+    <113, \[ -1, -1, -1 ]>,
+    <47, \[ 1, 1, 1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ 145, 113, -94, 3894 ],
+    \[ 443, 251, -94, 98814 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, 1, 1 ]>,
+    <113, \[ -1, -1, -1 ]>,
+    <47, \[ 1, -1, -1 ]>,
+    <3, \[ 1, 1 ]>,
+    <59, \[ 1, 1 ]>,
+    <251, \[ -1, -1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ 145, 113, -94, 3894 ],
+    \[ 536, 807, -94, 1200156 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ -1, 1, 1 ]>,
+    <113, \[ -1, -1, -1 ]>,
+    <47, \[ 1, 1, 1 ]>,
+    <3, \[ 1, -1 ]>,
+    <59, \[ 1, 1 ]>,
+    <269, \[ -1, -1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ 145, 113, -94, 3894 ],
+    \[ 712, 519, -94, 516 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ -1, 1, 1 ]>,
+    <113, \[ -1, -1, -1 ]>,
+    <47, \[ 1, -1, 1 ]>,
+    <3, \[ 1, -1 ]>,
+    <59, \[ 1, 1 ]>,
+    <173, \[ -1, -1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ 152, 111, -94, 156 ],
+    \[ 443, 251, -94, 98814 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ -1, 1, 1 ]>,
+    <3, \[ 1, -1 ]>,
+    <47, \[ 1, -1, -1 ]>,
+    <37, \[ -1, -1 ]>,
+    <251, \[ -1, -1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ 152, 111, -94, 156 ],
+    \[ 536, 807, -94, 1200156 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, 1, 1 ]>,
+    <3, \[ 1, 1 ]>,
+    <47, \[ 1, 1, 1 ]>,
+    <37, \[ -1, -1 ]>,
+    <269, \[ -1, -1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ 152, 111, -94, 156 ],
+    \[ 712, 519, -94, 516 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, 1, 1 ]>,
+    <3, \[ 1, 1 ]>,
+    <47, \[ 1, -1, 1 ]>,
+    <37, \[ -1, -1 ]>,
+    <173, \[ -1, -1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ 443, 251, -94, 98814 ],
+    \[ 536, 807, -94, 1200156 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ -1, 1, 1 ]>,
+    <3, \[ 1, -1 ]>,
+    <47, \[ 1, 1, -1 ]>,
+    <269, \[ -1, -1 ]>,
+    <251, \[ -1, -1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ 443, 251, -94, 98814 ],
+    \[ 712, 519, -94, 516 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ -1, 1, 1 ]>,
+    <3, \[ 1, -1 ]>,
+    <47, \[ 1, 1, -1 ]>,
+    <173, \[ -1, -1 ]>,
+    <251, \[ -1, -1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ 536, 807, -94, 1200156 ],
+    \[ 712, 519, -94, 516 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, 1, 1 ]>,
+    <3, \[ 1, 1 ]>,
+    <47, \[ 1, -1, 1 ]>,
+    <269, \[ -1, -1 ]>,
+    <173, \[ -1, -1 ]>,
+    <0, \[ 1 ]>
+]
+"_________________________________________________________________________________"
+HyperellipticCurve([Polynomial([RationalField() | 1632, 0, 577, 0, 51]), 
+Polynomial([RationalField() |])])
+"_________________________________________________________________________________"
+HyperellipticCurve([Polynomial([RationalField() | -1632, 0, 577, 0, -51]), 
+Polynomial([RationalField() |])])
+[ PowerSequence(IntegerRing()) |
+    \[ -982, 421, -35, 46190 ],
+    \[ -394, 167, -35, 3034 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, 1, 1 ]>,
+    <37, \[ 1, 1 ]>,
+    <5, \[ 1, 1 ]>,
+    <7, \[ -1, 1, 1 ]>,
+    <41, \[ 1, 1, 1 ]>,
+    <31, \[ 1, 1, 1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -982, 421, -35, 46190 ],
+    \[ -358, 151, -35, 950 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, 1, 1 ]>,
+    <5, \[ 1, -1 ]>,
+    <7, \[ 1, 1, 1 ]>,
+    <19, \[ 1, 1 ]>,
+    <31, \[ 1, 1, 1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -982, 421, -35, 46190 ],
+    \[ -193, 124, -35, 60031 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ -1, -1, -1 ]>,
+    <5, \[ 1, 1 ]>,
+    <347, \[ 1, 1 ]>,
+    <7, \[ -1, 1, 1 ]>,
+    <31, \[ -1, -1, -1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -982, 421, -35, 46190 ],
+    \[ -151, 212, -35, 279377 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ -1, -1, -1 ]>,
+    <5, \[ 1, -1 ]>,
+    <7, \[ 1, 1, 1 ]>,
+    <107, \[ 1, 1 ]>,
+    <53, \[ -1, -1 ]>,
+    <31, \[ 1, 1, 1 ]>,
+    <373, \[ 1, 1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -982, 421, -35, 46190 ],
+    \[ -19, 8, -35, 1 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, 1, 1 ]>,
+    <5, \[ 1, -1 ]>,
+    <7, \[ -1, 1, 1 ]>,
+    <31, \[ 1, 1, 1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -982, 421, -35, 46190 ],
+    \[ -2, 1, -35, 2 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, 1, 1 ]>,
+    <5, \[ 1, 1 ]>,
+    <7, \[ 1, 1, 1 ]>,
+    <31, \[ 1, 1, 1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -982, 421, -35, 46190 ],
+    \[ 2, 1, -35, 2 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, 1, 1 ]>,
+    <5, \[ 1, -1 ]>,
+    <7, \[ -1, 1, 1 ]>,
+    <31, \[ 1, 1, 1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -982, 421, -35, 46190 ],
+    \[ 19, 8, -35, 1 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, 1, 1 ]>,
+    <5, \[ 1, 1 ]>,
+    <7, \[ 1, 1, 1 ]>,
+    <31, \[ 1, 1, 1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -982, 421, -35, 46190 ],
+    \[ 151, 212, -35, 279377 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ -1, -1, -1 ]>,
+    <5, \[ 1, 1 ]>,
+    <7, \[ -1, 1, 1 ]>,
+    <107, \[ 1, 1 ]>,
+    <53, \[ -1, -1 ]>,
+    <31, \[ 1, 1, 1 ]>,
+    <373, \[ 1, 1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -982, 421, -35, 46190 ],
+    \[ 193, 124, -35, 60031 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ -1, -1, -1 ]>,
+    <5, \[ 1, -1 ]>,
+    <347, \[ 1, 1 ]>,
+    <7, \[ 1, 1, 1 ]>,
+    <31, \[ -1, -1, -1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -982, 421, -35, 46190 ],
+    \[ 358, 151, -35, 950 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, 1, 1 ]>,
+    <5, \[ 1, 1 ]>,
+    <7, \[ -1, 1, 1 ]>,
+    <19, \[ 1, 1 ]>,
+    <31, \[ 1, 1, 1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -982, 421, -35, 46190 ],
+    \[ 394, 167, -35, 3034 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, 1, 1 ]>,
+    <37, \[ 1, 1 ]>,
+    <5, \[ 1, -1 ]>,
+    <7, \[ 1, 1, 1 ]>,
+    <41, \[ 1, 1, 1 ]>,
+    <31, \[ 1, 1, 1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -982, 421, -35, 46190 ],
+    \[ 982, 421, -35, 46190 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, 1, 1 ]>,
+    <5, \[ 1, -1 ]>,
+    <7, \[ -1, 1, 1 ]>,
+    <31, \[ 1, 1, 1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -769, 323, -170, 329 ],
+    \[ 769, 323, -170, 329 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ -1, -1, -1 ]>,
+    <5, \[ 1, -1 ]>,
+    <17, \[ 1, 1, 1, 1 ]>,
+    <7, \[ 1, 1, 1 ]>,
+    <0, \[ -1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -394, 167, -35, 3034 ],
+    \[ -358, 151, -35, 950 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, 1, 1 ]>,
+    <37, \[ 1, 1 ]>,
+    <5, \[ 1, -1 ]>,
+    <7, \[ -1, 1, 1 ]>,
+    <41, \[ 1, 1, 1 ]>,
+    <19, \[ 1, 1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -394, 167, -35, 3034 ],
+    \[ -193, 124, -35, 60031 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ -1, -1, -1 ]>,
+    <37, \[ 1, 1 ]>,
+    <5, \[ 1, 1 ]>,
+    <347, \[ 1, 1 ]>,
+    <7, \[ 1, 1, 1 ]>,
+    <41, \[ 1, 1, 1 ]>,
+    <31, \[ -1, -1, -1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -394, 167, -35, 3034 ],
+    \[ -151, 212, -35, 279377 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ -1, -1, -1 ]>,
+    <37, \[ 1, 1 ]>,
+    <5, \[ 1, -1 ]>,
+    <7, \[ -1, 1, 1 ]>,
+    <41, \[ 1, 1, 1 ]>,
+    <107, \[ 1, 1 ]>,
+    <53, \[ -1, -1 ]>,
+    <373, \[ 1, 1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -394, 167, -35, 3034 ],
+    \[ -19, 8, -35, 1 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, 1, 1 ]>,
+    <37, \[ 1, 1 ]>,
+    <5, \[ 1, -1 ]>,
+    <7, \[ 1, 1, 1 ]>,
+    <41, \[ 1, 1, 1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -394, 167, -35, 3034 ],
+    \[ -2, 1, -35, 2 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, 1, 1 ]>,
+    <37, \[ 1, 1 ]>,
+    <5, \[ 1, 1 ]>,
+    <7, \[ -1, 1, 1 ]>,
+    <41, \[ 1, 1, 1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -394, 167, -35, 3034 ],
+    \[ 2, 1, -35, 2 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, 1, 1 ]>,
+    <37, \[ 1, 1 ]>,
+    <5, \[ 1, -1 ]>,
+    <7, \[ 1, 1, 1 ]>,
+    <41, \[ 1, 1, 1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -394, 167, -35, 3034 ],
+    \[ 19, 8, -35, 1 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, 1, 1 ]>,
+    <37, \[ 1, 1 ]>,
+    <5, \[ 1, 1 ]>,
+    <7, \[ -1, 1, 1 ]>,
+    <41, \[ 1, 1, 1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -394, 167, -35, 3034 ],
+    \[ 151, 212, -35, 279377 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ -1, -1, -1 ]>,
+    <37, \[ 1, 1 ]>,
+    <5, \[ 1, 1 ]>,
+    <7, \[ 1, 1, 1 ]>,
+    <41, \[ 1, 1, 1 ]>,
+    <107, \[ 1, 1 ]>,
+    <53, \[ -1, -1 ]>,
+    <373, \[ 1, 1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -394, 167, -35, 3034 ],
+    \[ 193, 124, -35, 60031 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ -1, -1, -1 ]>,
+    <37, \[ 1, 1 ]>,
+    <5, \[ 1, -1 ]>,
+    <347, \[ 1, 1 ]>,
+    <7, \[ -1, 1, 1 ]>,
+    <41, \[ 1, 1, 1 ]>,
+    <31, \[ -1, -1, -1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -394, 167, -35, 3034 ],
+    \[ 358, 151, -35, 950 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, 1, 1 ]>,
+    <37, \[ 1, 1 ]>,
+    <5, \[ 1, 1 ]>,
+    <7, \[ 1, 1, 1 ]>,
+    <41, \[ 1, 1, 1 ]>,
+    <19, \[ 1, 1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -394, 167, -35, 3034 ],
+    \[ 394, 167, -35, 3034 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, 1, 1 ]>,
+    <37, \[ 1, 1 ]>,
+    <5, \[ 1, -1 ]>,
+    <7, \[ -1, 1, 1 ]>,
+    <41, \[ 1, 1, 1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -394, 167, -35, 3034 ],
+    \[ 982, 421, -35, 46190 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, 1, 1 ]>,
+    <37, \[ 1, 1 ]>,
+    <5, \[ 1, -1 ]>,
+    <7, \[ 1, 1, 1 ]>,
+    <41, \[ 1, 1, 1 ]>,
+    <31, \[ 1, 1, 1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -358, 151, -35, 950 ],
+    \[ -193, 124, -35, 60031 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ -1, -1, -1 ]>,
+    <5, \[ 1, -1 ]>,
+    <347, \[ 1, 1 ]>,
+    <7, \[ -1, 1, 1 ]>,
+    <19, \[ 1, 1 ]>,
+    <31, \[ -1, -1, -1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -358, 151, -35, 950 ],
+    \[ -151, 212, -35, 279377 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ -1, -1, -1 ]>,
+    <5, \[ 1, 1 ]>,
+    <7, \[ 1, 1, 1 ]>,
+    <19, \[ 1, 1 ]>,
+    <107, \[ 1, 1 ]>,
+    <53, \[ -1, -1 ]>,
+    <373, \[ 1, 1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -358, 151, -35, 950 ],
+    \[ -19, 8, -35, 1 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, 1, 1 ]>,
+    <5, \[ 1, 1 ]>,
+    <7, \[ -1, 1, 1 ]>,
+    <19, \[ 1, 1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -358, 151, -35, 950 ],
+    \[ -2, 1, -35, 2 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, 1, 1 ]>,
+    <5, \[ 1, -1 ]>,
+    <7, \[ 1, 1, 1 ]>,
+    <19, \[ 1, 1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -358, 151, -35, 950 ],
+    \[ 2, 1, -35, 2 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, 1, 1 ]>,
+    <5, \[ 1, 1 ]>,
+    <7, \[ -1, 1, 1 ]>,
+    <19, \[ 1, 1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -358, 151, -35, 950 ],
+    \[ 19, 8, -35, 1 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, 1, 1 ]>,
+    <5, \[ 1, -1 ]>,
+    <7, \[ 1, 1, 1 ]>,
+    <19, \[ 1, 1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -358, 151, -35, 950 ],
+    \[ 151, 212, -35, 279377 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ -1, -1, -1 ]>,
+    <5, \[ 1, -1 ]>,
+    <7, \[ -1, 1, 1 ]>,
+    <19, \[ 1, 1 ]>,
+    <107, \[ 1, 1 ]>,
+    <53, \[ -1, -1 ]>,
+    <373, \[ 1, 1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -358, 151, -35, 950 ],
+    \[ 193, 124, -35, 60031 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ -1, -1, -1 ]>,
+    <5, \[ 1, 1 ]>,
+    <347, \[ 1, 1 ]>,
+    <7, \[ 1, 1, 1 ]>,
+    <19, \[ 1, 1 ]>,
+    <31, \[ -1, -1, -1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -358, 151, -35, 950 ],
+    \[ 358, 151, -35, 950 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, 1, 1 ]>,
+    <5, \[ 1, -1 ]>,
+    <7, \[ -1, 1, 1 ]>,
+    <19, \[ 1, 1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -358, 151, -35, 950 ],
+    \[ 394, 167, -35, 3034 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, 1, 1 ]>,
+    <37, \[ 1, 1 ]>,
+    <5, \[ 1, 1 ]>,
+    <7, \[ 1, 1, 1 ]>,
+    <19, \[ 1, 1 ]>,
+    <41, \[ 1, 1, 1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -358, 151, -35, 950 ],
+    \[ 982, 421, -35, 46190 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, 1, 1 ]>,
+    <5, \[ 1, 1 ]>,
+    <7, \[ -1, 1, 1 ]>,
+    <19, \[ 1, 1 ]>,
+    <31, \[ 1, 1, 1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -193, 124, -35, 60031 ],
+    \[ -151, 212, -35, 279377 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, 1, 1 ]>,
+    <5, \[ 1, -1 ]>,
+    <347, \[ 1, 1 ]>,
+    <7, \[ -1, 1, 1 ]>,
+    <107, \[ 1, 1 ]>,
+    <31, \[ -1, -1, -1 ]>,
+    <53, \[ -1, -1 ]>,
+    <373, \[ 1, 1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -193, 124, -35, 60031 ],
+    \[ -19, 8, -35, 1 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ -1, -1, -1 ]>,
+    <5, \[ 1, -1 ]>,
+    <347, \[ 1, 1 ]>,
+    <7, \[ 1, 1, 1 ]>,
+    <31, \[ -1, -1, -1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -193, 124, -35, 60031 ],
+    \[ -2, 1, -35, 2 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ -1, -1, -1 ]>,
+    <5, \[ 1, 1 ]>,
+    <347, \[ 1, 1 ]>,
+    <7, \[ -1, 1, 1 ]>,
+    <31, \[ -1, -1, -1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -193, 124, -35, 60031 ],
+    \[ 2, 1, -35, 2 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ -1, -1, -1 ]>,
+    <5, \[ 1, -1 ]>,
+    <347, \[ 1, 1 ]>,
+    <7, \[ 1, 1, 1 ]>,
+    <31, \[ -1, -1, -1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -193, 124, -35, 60031 ],
+    \[ 19, 8, -35, 1 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ -1, -1, -1 ]>,
+    <5, \[ 1, 1 ]>,
+    <347, \[ 1, 1 ]>,
+    <7, \[ -1, 1, 1 ]>,
+    <31, \[ -1, -1, -1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -193, 124, -35, 60031 ],
+    \[ 151, 212, -35, 279377 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, 1, 1 ]>,
+    <5, \[ 1, 1 ]>,
+    <347, \[ 1, 1 ]>,
+    <7, \[ 1, 1, 1 ]>,
+    <107, \[ 1, 1 ]>,
+    <31, \[ -1, -1, -1 ]>,
+    <53, \[ -1, -1 ]>,
+    <373, \[ 1, 1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -193, 124, -35, 60031 ],
+    \[ 193, 124, -35, 60031 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, 1, 1 ]>,
+    <5, \[ 1, -1 ]>,
+    <347, \[ 1, 1 ]>,
+    <7, \[ -1, 1, 1 ]>,
+    <31, \[ 1, 1, 1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -193, 124, -35, 60031 ],
+    \[ 358, 151, -35, 950 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ -1, -1, -1 ]>,
+    <5, \[ 1, 1 ]>,
+    <347, \[ 1, 1 ]>,
+    <7, \[ 1, 1, 1 ]>,
+    <19, \[ 1, 1 ]>,
+    <31, \[ -1, -1, -1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -193, 124, -35, 60031 ],
+    \[ 394, 167, -35, 3034 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ -1, -1, -1 ]>,
+    <37, \[ 1, 1 ]>,
+    <5, \[ 1, -1 ]>,
+    <347, \[ 1, 1 ]>,
+    <7, \[ -1, 1, 1 ]>,
+    <41, \[ 1, 1, 1 ]>,
+    <31, \[ -1, -1, -1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -193, 124, -35, 60031 ],
+    \[ 982, 421, -35, 46190 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ -1, -1, -1 ]>,
+    <5, \[ 1, -1 ]>,
+    <347, \[ 1, 1 ]>,
+    <7, \[ 1, 1, 1 ]>,
+    <31, \[ -1, -1, -1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -151, 212, -35, 279377 ],
+    \[ -19, 8, -35, 1 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ -1, -1, -1 ]>,
+    <5, \[ 1, 1 ]>,
+    <7, \[ -1, 1, 1 ]>,
+    <107, \[ 1, 1 ]>,
+    <53, \[ -1, -1 ]>,
+    <373, \[ 1, 1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -151, 212, -35, 279377 ],
+    \[ -2, 1, -35, 2 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ -1, -1, -1 ]>,
+    <5, \[ 1, -1 ]>,
+    <7, \[ 1, 1, 1 ]>,
+    <107, \[ 1, 1 ]>,
+    <53, \[ -1, -1 ]>,
+    <373, \[ 1, 1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -151, 212, -35, 279377 ],
+    \[ 2, 1, -35, 2 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ -1, -1, -1 ]>,
+    <5, \[ 1, 1 ]>,
+    <7, \[ -1, 1, 1 ]>,
+    <107, \[ 1, 1 ]>,
+    <53, \[ -1, -1 ]>,
+    <373, \[ 1, 1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -151, 212, -35, 279377 ],
+    \[ 19, 8, -35, 1 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ -1, -1, -1 ]>,
+    <5, \[ 1, -1 ]>,
+    <7, \[ 1, 1, 1 ]>,
+    <107, \[ 1, 1 ]>,
+    <53, \[ -1, -1 ]>,
+    <373, \[ 1, 1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -151, 212, -35, 279377 ],
+    \[ 151, 212, -35, 279377 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, 1, 1 ]>,
+    <5, \[ 1, -1 ]>,
+    <7, \[ -1, 1, 1 ]>,
+    <107, \[ 1, 1 ]>,
+    <53, \[ 1, 1 ]>,
+    <373, \[ 1, 1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -151, 212, -35, 279377 ],
+    \[ 193, 124, -35, 60031 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, 1, 1 ]>,
+    <5, \[ 1, 1 ]>,
+    <347, \[ 1, 1 ]>,
+    <7, \[ 1, 1, 1 ]>,
+    <107, \[ 1, 1 ]>,
+    <53, \[ -1, -1 ]>,
+    <31, \[ -1, -1, -1 ]>,
+    <373, \[ 1, 1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -151, 212, -35, 279377 ],
+    \[ 358, 151, -35, 950 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ -1, -1, -1 ]>,
+    <5, \[ 1, -1 ]>,
+    <7, \[ -1, 1, 1 ]>,
+    <107, \[ 1, 1 ]>,
+    <19, \[ 1, 1 ]>,
+    <53, \[ -1, -1 ]>,
+    <373, \[ 1, 1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -151, 212, -35, 279377 ],
+    \[ 394, 167, -35, 3034 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ -1, -1, -1 ]>,
+    <37, \[ 1, 1 ]>,
+    <5, \[ 1, 1 ]>,
+    <7, \[ 1, 1, 1 ]>,
+    <107, \[ 1, 1 ]>,
+    <41, \[ 1, 1, 1 ]>,
+    <53, \[ -1, -1 ]>,
+    <373, \[ 1, 1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -151, 212, -35, 279377 ],
+    \[ 982, 421, -35, 46190 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ -1, -1, -1 ]>,
+    <5, \[ 1, 1 ]>,
+    <7, \[ -1, 1, 1 ]>,
+    <107, \[ 1, 1 ]>,
+    <53, \[ -1, -1 ]>,
+    <31, \[ 1, 1, 1 ]>,
+    <373, \[ 1, 1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -132, 29, -93, 9380 ],
+    \[ 132, 29, -93, 9380 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <67, \[ 1, 1 ]>,
+    <2, \[ 1, 1, 1 ]>,
+    <3, \[ 1, 1 ]>,
+    <5, \[ 1, 1 ]>,
+    <7, \[ 1, 1, 1 ]>,
+    <31, \[ 1, -1, -1 ]>,
+    <0, \[ -1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -50, 21, -123, 2 ],
+    \[ 50, 21, -123, 2 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, 1, 1 ]>,
+    <3, \[ -1, -1 ]>,
+    <7, \[ 1, 1, 1 ]>,
+    <41, \[ 1, -1, 1 ]>,
+    <0, \[ -1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -19, 8, -35, 1 ],
+    \[ -2, 1, -35, 2 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, 1, 1 ]>,
+    <5, \[ 1, -1 ]>,
+    <7, \[ -1, 1, 1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -19, 8, -35, 1 ],
+    \[ 2, 1, -35, 2 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, 1, 1 ]>,
+    <5, \[ 1, 1 ]>,
+    <7, \[ 1, 1, 1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -19, 8, -35, 1 ],
+    \[ 19, 8, -35, 1 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, 1, 1 ]>,
+    <5, \[ 1, -1 ]>,
+    <7, \[ -1, 1, 1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -19, 8, -35, 1 ],
+    \[ 151, 212, -35, 279377 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ -1, -1, -1 ]>,
+    <5, \[ 1, -1 ]>,
+    <7, \[ 1, 1, 1 ]>,
+    <107, \[ 1, 1 ]>,
+    <53, \[ -1, -1 ]>,
+    <373, \[ 1, 1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -19, 8, -35, 1 ],
+    \[ 193, 124, -35, 60031 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ -1, -1, -1 ]>,
+    <5, \[ 1, 1 ]>,
+    <347, \[ 1, 1 ]>,
+    <7, \[ -1, 1, 1 ]>,
+    <31, \[ -1, -1, -1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -19, 8, -35, 1 ],
+    \[ 358, 151, -35, 950 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, 1, 1 ]>,
+    <5, \[ 1, -1 ]>,
+    <7, \[ 1, 1, 1 ]>,
+    <19, \[ 1, 1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -19, 8, -35, 1 ],
+    \[ 394, 167, -35, 3034 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, 1, 1 ]>,
+    <37, \[ 1, 1 ]>,
+    <5, \[ 1, 1 ]>,
+    <7, \[ -1, 1, 1 ]>,
+    <41, \[ 1, 1, 1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -19, 8, -35, 1 ],
+    \[ 982, 421, -35, 46190 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, 1, 1 ]>,
+    <5, \[ 1, 1 ]>,
+    <7, \[ 1, 1, 1 ]>,
+    <31, \[ 1, 1, 1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -12, 5, -21, 4 ],
+    \[ 12, 5, -21, 4 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, 1, 1 ]>,
+    <3, \[ 1, 1 ]>,
+    <7, \[ 1, -1, -1 ]>,
+    <0, \[ -1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -7, 3, -186, 1 ],
+    \[ 7, 3, -186, 1 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ -1, -1, -1 ]>,
+    <3, \[ -1, -1 ]>,
+    <31, \[ -1, 1, 1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -2, 1, -35, 2 ],
+    \[ 2, 1, -35, 2 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, 1, 1 ]>,
+    <5, \[ 1, -1 ]>,
+    <7, \[ -1, 1, 1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -2, 1, -35, 2 ],
+    \[ 19, 8, -35, 1 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, 1, 1 ]>,
+    <5, \[ 1, 1 ]>,
+    <7, \[ 1, 1, 1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -2, 1, -35, 2 ],
+    \[ 151, 212, -35, 279377 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ -1, -1, -1 ]>,
+    <5, \[ 1, 1 ]>,
+    <7, \[ -1, 1, 1 ]>,
+    <107, \[ 1, 1 ]>,
+    <53, \[ -1, -1 ]>,
+    <373, \[ 1, 1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -2, 1, -35, 2 ],
+    \[ 193, 124, -35, 60031 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ -1, -1, -1 ]>,
+    <5, \[ 1, -1 ]>,
+    <347, \[ 1, 1 ]>,
+    <7, \[ 1, 1, 1 ]>,
+    <31, \[ -1, -1, -1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -2, 1, -35, 2 ],
+    \[ 358, 151, -35, 950 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, 1, 1 ]>,
+    <5, \[ 1, 1 ]>,
+    <7, \[ -1, 1, 1 ]>,
+    <19, \[ 1, 1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -2, 1, -35, 2 ],
+    \[ 394, 167, -35, 3034 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, 1, 1 ]>,
+    <37, \[ 1, 1 ]>,
+    <5, \[ 1, -1 ]>,
+    <7, \[ 1, 1, 1 ]>,
+    <41, \[ 1, 1, 1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -2, 1, -35, 2 ],
+    \[ 982, 421, -35, 46190 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, 1, 1 ]>,
+    <5, \[ 1, -1 ]>,
+    <7, \[ -1, 1, 1 ]>,
+    <31, \[ 1, 1, 1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -1, 3, -42, 55 ],
+    \[ 1, 3, -42, 55 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <11, \[ 1, 1 ]>,
+    <2, \[ -1, -1, -1 ]>,
+    <3, \[ -1, -1 ]>,
+    <5, \[ 1, 1 ]>,
+    <7, \[ -1, 1, 1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ 2, 1, -35, 2 ],
+    \[ 19, 8, -35, 1 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, 1, 1 ]>,
+    <5, \[ 1, -1 ]>,
+    <7, \[ -1, 1, 1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ 2, 1, -35, 2 ],
+    \[ 151, 212, -35, 279377 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ -1, -1, -1 ]>,
+    <5, \[ 1, -1 ]>,
+    <7, \[ 1, 1, 1 ]>,
+    <107, \[ 1, 1 ]>,
+    <53, \[ -1, -1 ]>,
+    <373, \[ 1, 1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ 2, 1, -35, 2 ],
+    \[ 193, 124, -35, 60031 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ -1, -1, -1 ]>,
+    <5, \[ 1, 1 ]>,
+    <347, \[ 1, 1 ]>,
+    <7, \[ -1, 1, 1 ]>,
+    <31, \[ -1, -1, -1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ 2, 1, -35, 2 ],
+    \[ 358, 151, -35, 950 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, 1, 1 ]>,
+    <5, \[ 1, -1 ]>,
+    <7, \[ 1, 1, 1 ]>,
+    <19, \[ 1, 1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ 2, 1, -35, 2 ],
+    \[ 394, 167, -35, 3034 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, 1, 1 ]>,
+    <37, \[ 1, 1 ]>,
+    <5, \[ 1, 1 ]>,
+    <7, \[ -1, 1, 1 ]>,
+    <41, \[ 1, 1, 1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ 2, 1, -35, 2 ],
+    \[ 982, 421, -35, 46190 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, 1, 1 ]>,
+    <5, \[ 1, 1 ]>,
+    <7, \[ 1, 1, 1 ]>,
+    <31, \[ 1, 1, 1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ 19, 8, -35, 1 ],
+    \[ 151, 212, -35, 279377 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ -1, -1, -1 ]>,
+    <5, \[ 1, 1 ]>,
+    <7, \[ -1, 1, 1 ]>,
+    <107, \[ 1, 1 ]>,
+    <53, \[ -1, -1 ]>,
+    <373, \[ 1, 1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ 19, 8, -35, 1 ],
+    \[ 193, 124, -35, 60031 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ -1, -1, -1 ]>,
+    <5, \[ 1, -1 ]>,
+    <347, \[ 1, 1 ]>,
+    <7, \[ 1, 1, 1 ]>,
+    <31, \[ -1, -1, -1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ 19, 8, -35, 1 ],
+    \[ 358, 151, -35, 950 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, 1, 1 ]>,
+    <5, \[ 1, 1 ]>,
+    <7, \[ -1, 1, 1 ]>,
+    <19, \[ 1, 1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ 19, 8, -35, 1 ],
+    \[ 394, 167, -35, 3034 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, 1, 1 ]>,
+    <37, \[ 1, 1 ]>,
+    <5, \[ 1, -1 ]>,
+    <7, \[ 1, 1, 1 ]>,
+    <41, \[ 1, 1, 1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ 19, 8, -35, 1 ],
+    \[ 982, 421, -35, 46190 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, 1, 1 ]>,
+    <5, \[ 1, -1 ]>,
+    <7, \[ -1, 1, 1 ]>,
+    <31, \[ 1, 1, 1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ 151, 212, -35, 279377 ],
+    \[ 193, 124, -35, 60031 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, 1, 1 ]>,
+    <5, \[ 1, -1 ]>,
+    <347, \[ 1, 1 ]>,
+    <7, \[ -1, 1, 1 ]>,
+    <107, \[ 1, 1 ]>,
+    <53, \[ -1, -1 ]>,
+    <31, \[ -1, -1, -1 ]>,
+    <373, \[ 1, 1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ 151, 212, -35, 279377 ],
+    \[ 358, 151, -35, 950 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ -1, -1, -1 ]>,
+    <5, \[ 1, 1 ]>,
+    <7, \[ 1, 1, 1 ]>,
+    <107, \[ 1, 1 ]>,
+    <19, \[ 1, 1 ]>,
+    <53, \[ -1, -1 ]>,
+    <373, \[ 1, 1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ 151, 212, -35, 279377 ],
+    \[ 394, 167, -35, 3034 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ -1, -1, -1 ]>,
+    <37, \[ 1, 1 ]>,
+    <5, \[ 1, -1 ]>,
+    <7, \[ -1, 1, 1 ]>,
+    <107, \[ 1, 1 ]>,
+    <41, \[ 1, 1, 1 ]>,
+    <53, \[ -1, -1 ]>,
+    <373, \[ 1, 1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ 151, 212, -35, 279377 ],
+    \[ 982, 421, -35, 46190 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ -1, -1, -1 ]>,
+    <5, \[ 1, -1 ]>,
+    <7, \[ 1, 1, 1 ]>,
+    <107, \[ 1, 1 ]>,
+    <53, \[ -1, -1 ]>,
+    <31, \[ 1, 1, 1 ]>,
+    <373, \[ 1, 1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ 193, 124, -35, 60031 ],
+    \[ 358, 151, -35, 950 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ -1, -1, -1 ]>,
+    <5, \[ 1, -1 ]>,
+    <347, \[ 1, 1 ]>,
+    <7, \[ -1, 1, 1 ]>,
+    <19, \[ 1, 1 ]>,
+    <31, \[ -1, -1, -1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ 193, 124, -35, 60031 ],
+    \[ 394, 167, -35, 3034 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ -1, -1, -1 ]>,
+    <37, \[ 1, 1 ]>,
+    <5, \[ 1, 1 ]>,
+    <347, \[ 1, 1 ]>,
+    <7, \[ 1, 1, 1 ]>,
+    <41, \[ 1, 1, 1 ]>,
+    <31, \[ -1, -1, -1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ 193, 124, -35, 60031 ],
+    \[ 982, 421, -35, 46190 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ -1, -1, -1 ]>,
+    <5, \[ 1, 1 ]>,
+    <347, \[ 1, 1 ]>,
+    <7, \[ -1, 1, 1 ]>,
+    <31, \[ -1, -1, -1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ 358, 151, -35, 950 ],
+    \[ 394, 167, -35, 3034 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, 1, 1 ]>,
+    <37, \[ 1, 1 ]>,
+    <5, \[ 1, -1 ]>,
+    <7, \[ -1, 1, 1 ]>,
+    <19, \[ 1, 1 ]>,
+    <41, \[ 1, 1, 1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ 358, 151, -35, 950 ],
+    \[ 982, 421, -35, 46190 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, 1, 1 ]>,
+    <5, \[ 1, -1 ]>,
+    <7, \[ 1, 1, 1 ]>,
+    <19, \[ 1, 1 ]>,
+    <31, \[ 1, 1, 1 ]>,
+    <0, \[ 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ 394, 167, -35, 3034 ],
+    \[ 982, 421, -35, 46190 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, 1, 1 ]>,
+    <37, \[ 1, 1 ]>,
+    <5, \[ 1, 1 ]>,
+    <7, \[ -1, 1, 1 ]>,
+    <41, \[ 1, 1, 1 ]>,
+    <31, \[ 1, 1, 1 ]>,
+    <0, \[ 1 ]>
+]
+"_________________________________________________________________________________"
+HyperellipticCurve([Polynomial([RationalField() | 544, 0, 577, 0, 153]), 
+Polynomial([RationalField() |])])
+[ PowerSequence(IntegerRing()) |
+    \[ -55, 51, 34, 16821 ],
+    \[ 0, 1, 34, 4 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, -1, -1 ]>,
+    <17, \[ -1, 1, 1, -1 ]>,
+    <7, \[ 1, 1, 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -55, 51, 34, 16821 ],
+    \[ 55, 51, 34, 16821 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, 1, 1 ]>,
+    <17, \[ 1, 1, 1, 1 ]>,
+    <7, \[ 1, 1, 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -46, 19, 149, 2834 ],
+    \[ 46, 19, 149, 2834 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, 1, 1 ]>,
+    <13, \[ 1, 1 ]>,
+    <149, \[ -1, 1 ]>,
+    <109, \[ 1, 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -8, 3, 86, 108 ],
+    \[ 8, 3, 86, 108 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, 1, 1 ]>,
+    <3, \[ 1, 1 ]>,
+    <43, \[ -1, 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -4, 9, 179, 156 ],
+    \[ 4, 9, 179, 156 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, 1, 1 ]>,
+    <3, \[ 1, 1 ]>,
+    <179, \[ -1, 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -2, 1, 53, 10 ],
+    \[ 2, 1, 53, 10 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, 1, 1 ]>,
+    <5, \[ 1, 1 ]>,
+    <53, \[ -1, 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ -1, 1, 26, 7 ],
+    \[ 1, 1, 26, 7 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, 1, 1 ]>,
+    <13, \[ -1, 1 ]>,
+    <7, \[ 1, 1, 1 ]>
+]
+[ PowerSequence(IntegerRing()) |
+    \[ 0, 1, 34, 4 ],
+    \[ 55, 51, 34, 16821 ]
+]
+[ car<IntegerRing(), PowerSequence(IntegerRing())> |
+    <2, \[ 1, -1, -1 ]>,
+    <17, \[ 1, -1, -1, 1 ]>,
+    <7, \[ 1, 1, 1 ]>
+]
